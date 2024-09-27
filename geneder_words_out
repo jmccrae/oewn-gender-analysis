@@ -1,0 +1,686 @@
+['lama', 'washman', 'padrone', 'hero', 'dandy', 'fashion plate', 'clotheshorse', 'swell', 'gallant', 'sheik', 'beau', 'dude', 'fop', 'industrialist', 'patriarch', 'small businessman', 'kinsman', 'squaw man', 'wittol', 'stud', 'he-man', 'macho-man', 'margrave', 'outdoorsman', 'adonis', 'rainmaker', 'baron', 'duke', 'agony uncle', 'salesman', 'iron man', 'ironman', 'viscountess', 'abbe', 'widower', 'widowman', 'owner', 'proprietor', 'cattleman', 'cowboy', 'cowman', 'master', 'hoodoo', 'cover boy', 'paterfamilias', 'patriarch', 'hubby', 'husband', 'married man', 'boy Friday', 'bookseller', 'fanboy', 'committeeman', 'transactor', 'bondman', 'bondsman', 'uncle', 'ironside', 'philanderer', 'womaniser', 'womanizer', 'schoolboy', 'bagman', 'traveling salesman', 'travelling salesman', 'roadman', 'commercial traveler', 'commercial traveller', 'schoolmaster', "good ol' boy", 'good old boy', 'good ole boy', 'housefather', 'oilman', 'tallyman', 'little brother', 'oil tycoon', 'madman', 'statesman', 'vestal virgin', 'barman', 'king', 'power', 'baron', 'big businessman', 'business leader', 'top executive', 'tycoon', 'magnate', 'mogul', 'priest', 'non-Christian priest', 'mesne lord', 'concessionaire', 'concessioner', 'stepfather', 'station agent', 'stationmaster', 'newsman', 'shaver', 'stiff', 'young buck', 'young man', 'golden boy', 'wonder boy', 'boss', 'gaffer', 'honcho', 'foreman', 'chief', 'bachelor', 'unmarried man', 'airman', 'saloon keeper', 'antique', 'gaffer', 'old geezer', 'old-timer', 'oldtimer', 'middle-aged man', 'letter', 'stepbrother', 'half brother', 'half-brother', 'laundryman', 'washerman', 'charman', 'best man', 'gentleman', 'castrate', 'eunuch', 'sartor', 'seamster', 'tailor', 'big brother', 'masseur', 'ponce', 'timberman', 'grand duke', 'restauranter', 'restaurateur', 'male sibling', 'flamen', 'duke', 'lollipop man', 'leading man', 'peer of the realm', 'posseman', 'groom', 'bridegroom', 'supermarketeer', 'supermarketer', 'house husband', 'househusband', 'ganger', 'noble', 'nobleman', 'baron', 'baboo', 'babu', 'father figure', 'father surrogate', 'sire', 'countryman', 'grandee', 'policeman', 'host', 'innkeeper', 'boniface', 'horseman', 'marquess', 'enlisted man', 'showboy', 'bondman', 'bondsman', 'thane', 'pitchman', 'white man', 'benedick', 'benedict', 'foreman', 'bacchante', 'nephew', 'proprietress', 'operator', 'guy', 'sod', 'bozo', 'hombre', 'swain', 'beau', 'boyfriend', 'fellow', 'galoot', 'amalgamator', 'prince consort', 'blood brother', 'brother', 'charge of quarters', 'broth of a boy', 'broth of a man', 'peer', 'granduncle', 'great-uncle', 'assemblyman', 'viscount', 'old boy', 'old man', 'wolf', 'masher', 'skirt chaser', 'woman chaser', 'abbot', 'archimandrite', 'king', 'male monarch', 'cleaning man', 'macaroni', 'signior', 'signor', 'foster father', 'foster-father', 'bull', 'strapper', 'bruiser', 'votary', 'milord', 'ejaculator', 'patron', 'count', 'baas', 'tempter', 'selectman', 'publisher', 'newspaper publisher', 'groom', 'bridegroom', 'marquess', 'marquis', 'magus', 'landgrave', 'burgess', 'burgher', 'old codger', 'codger', 'raw recruit', 'suit', 'archduke', 'oppa', 'one of the boys', 'spymaster', 'yard bird', 'yardbird', 'book agent', 'boy', 'palatine', 'palsgrave', 'sprog', 'ruralist', 'countryman', 'hero', 'courtier', 'prince', 'dirty old man', 'schoolmaster', 'master', 'headmaster', 'brony', 'shaman', 'priest-doctor', 'greybeard', 'graybeard', 'old man', 'inamorato', 'renter', 'coiffeur', 'life peer', 'bacchant', 'bey', 'ibn Talal Hussein', 'signore', 'postmaster', 'grandnephew', 'great-nephew', 'sheik', 'sheikh', 'tribal sheik', 'tribal sheikh', 'buck private', 'private', 'common soldier', 'crown prince', 'spokesman', 'straw boss', 'assistant foreman', 'armorer', 'armourer', 'artificer', 'gentleman-at-arms', 'arb', 'arbitrager', 'arbitrageur', 'viscount', 'businessman', 'man of affairs', 'groomsman', 'lease giver', 'lessor', 'syndicator', 'wildcatter', 'geezer', 'beggarman', 'cockscomb', 'coxcomb', 'poster boy', 'victualer', 'victualler', 'millionaire', 'obstetrician', 'accoucheur', 'vestryman', 'danseur', 'danseur noble', 'yellow man', 'backwoodsman', 'frontiersman', 'mountain man', 'cuckold', 'press lord', 'hostess', 'oarsman', 'enchanter', 'gent', 'hunk', 'burgrave', 'postmistress', 'dauphin', 'armiger', 'perinatologist', 'loose man', 'uxoricide', 'boy', 'buster', 'dude', 'fellow', 'fitter', 'ex-husband', 'medicine man', 'sir', 'recruit', 'military recruit', 'princeling', 'grass widower', 'divorced man', 'limey', 'family man', 'point man', 'housemaster', 'father-figure', 'air host', 'groom-to-be', 'fiance', 'princeling', 'gay man', 'shirtlifter', 'maharaja', 'maharajah', 'ex-boyfriend', 'earl', 'count palatine', 'councilman']
+['donna', 'eyeful', 'old woman', 'first gentleman', 'bride', 'chit', 'golf widow', 'ux.', 'uxor', 'queen', 'coiffeuse', 'white woman', 'jurywoman', 'demoiselle', 'damoiselle', 'damosel', 'damozel', 'damsel', 'authoress', 'stepsister', 'half sister', 'half-sister', 'landlady', 'miss', 'young lady', 'young woman', 'girl', 'fille', 'missy', 'mayoress', 'tragedienne', 'char', 'charwoman', 'cleaning lady', 'cleaning woman', 'prima ballerina', 'pin-up', 'lovely', 'cover girl', 'newspaperwoman', 'spokeswoman', 'alumna', 'girl', 'belle', 'bondswoman', 'seamstress', 'sempstress', 'needlewoman', 'modiste', 'bobby-socker', 'bobbysoxer', 'materfamilias', 'matriarch', 'ex-wife', 'viscountess', 'ring girl', 'doxy', 'paramour', 'concubine', 'courtesan', 'jade', 'slut', 'strumpet', 'hussy', 'trollop', 'adulteress', 'fornicatress', 'loose woman', 'mother', 'honest woman', 'geisha', 'geisha girl', 'bondsman', 'police matron', 'policewoman', 'showgirl', 'chorine', 'chorus girl', 'maiden aunt', 'battle-ax', 'battle-axe', 'vestal', 'matriarch', 'maid', 'maiden', 'girl Friday', 'matron', 'shiksa', 'shikse', 'housemother', 'sis', 'sister', 'yellow woman', 'yachtsman', 'counterman', 'beggarwoman', 'mother figure', 'young girl', 'jeune fille', 'lass', 'lassie', 'cowgirl', 'bondmaid', 'bondswoman', 'bondwoman', 'yachtswoman', 'conductress', 'sportswoman', 'war bride', 'matron', 'demimondaine', 'blonde', 'queen of the May', 'queen', 'masseuse', 'slattern', 'street girl', 'streetwalker', 'hooker', 'hustler', 'floozie', 'floozy', 'archduchess', 'blond', 'king', 'bird', 'chick', 'skirt', 'doll', 'dame', 'wench', 'ballerina', 'danseuse', 'nymphet', 'gal', 'businesswoman', 'chairwoman', 'viscountess', 'countrywoman', 'chairman', 'war widow', 'airwoman', 'aviatress', 'aviatrix', 'crown princess', 'camp follower', 'gravida II', 'secundigravida', 'cocotte', 'tart', 'sporting lady', 'bawd', 'harlot', 'prostitute', 'fancy woman', 'lady of pleasure', 'cyprian', 'whore', 'woman of the street', 'working girl', 'salesgirl', 'saleslady', 'saleswoman', 'foundress', 'mestiza', 'heroine', 'bridesmaid', 'maid of honor', 'golf widower', 'call girl', 'signora', 'kinswoman', 'pressman', 'newspaperman', 'shop girl', 'female sibling', 'trophy wife', 'inheritress', 'inheritrix', 'heiress', 'oarswoman', 'counterwoman', 'widow', 'widow woman', 'jezebel', 'kept man', 'priestess', 'stunt man', 'grandaunt', 'great-aunt', 'bachelor girl', 'bachelorette', 'freedman', 'aunt', 'auntie', 'aunty', 'newswoman', 'working girl', 'vestrywoman', 'freeman', 'first lady', 'countess', 'freewoman', 'bionic man', 'baby papa', 'barmaid', 'bionic woman', 'sheika', 'sheikha', 'clansman', 'congressman', 'soubrette', 'stunt woman', 'marchioness', 'party girl', 'peri', 'whoriental', 'ambassadress', 'millionairess', 'bondmaid', 'bondswoman', 'bondwoman', 'empress', 'brothel keeper', 'madam', 'bride-to-be', 'fiancee', 'manageress', 'accoucheuse', 'midwife', 'princess royal', 'songstress', 'duchess', 'clanswoman', 'proprietress', 'coquet', 'enlisted woman', 'juryman', 'wonder woman', 'broad', 'big sister', 'murderess', 'starlet', 'twimbos', 'amazon', 'virago', 'unmarried woman', 'homemaker', 'housewife', 'lady of the house', 'woman of the house', 'selectwoman', 'freedwoman', 'wonder man', 'stateswoman', 'tchotchke', 'tsatske', 'tshatshke', 'chachka', 'tchotchkeleh', 'gentlewoman', 'dame', 'lady', "ma'am", 'madam', 'dike', 'dyke', 'butch', "schoolma'am", 'schoolmarm', 'schoolmistress', 'mistress', 'begum', 'niece', 'sweater girl', 'lady-in-waiting', 'nanny', 'nurse', 'nursemaid', 'alumnus', 'countrywoman', 'lady', 'peeress', 'noblewoman', 'midinette', 'forewoman', 'dowager', 'bride', 'sculptress', 'assemblywoman', 'grandniece', 'great-niece', 'congresswoman', 'girlfriend', 'heroine', 'ianfu', 'comfort woman', 'grass widow', 'divorcee', 'whooty', 'wife', 'married woman', 'prioress', 'abbess', 'mother superior', 'rosebud', 'stewardess', 'hostess', 'air hostess', 'chauffeuse', 'trophy husband', 'bar girl', 'bimbo', 'crown princess', 'little sister', 'mammy', 'maenad', 'queen', 'female monarch', 'queen regnant', 'tease', 'flirt', 'vamp', 'prickteaser', 'coquette', 'vamper', 'minx', 'smasher', 'dish', 'knockout', 'mantrap', 'beauty', 'peach', 'stunner', 'sweetheart', 'ravisher', 'looker', 'lulu', 'gamine', 'valley girl', 'jilt', 'seductress', 'baby mama', 'agony aunt', 'gravida', 'schoolgirl', 'odalisque', 'committeewoman', 'headmistress', 'bispak', 'granny', 'maharanee', 'maharani', 'nymph', 'houri', 'hoe', 'slut', 'ho', 'hussy', 'trollop', 'white slave', 'frontierswoman', 'sex bomb', 'sex kitten', 'sexpot', 'hostess', 'forelady', 'forewoman', 'old maid', 'spinster', 'witch', 'enchantress', 'prophetess', 'flapper', 'giantess', 'signorina', 'nullipara', 'adventuress', 'sylph', 'colleen', 'sorceress', 'poster girl', 'dry nurse', 'hostess', 'old lady', 'deb', 'debutante', 'grand duchess', 'lollipop lady', 'lollipop woman', 'gold digger', 'vicereine', 'councilwoman', 'beldam', 'beldame', 'grande dame', 'chatelaine', 'unnie', 'hag', 'beldam', 'beldame', 'crone', 'witch', 'baggage', 'madwoman', 'mother', 'princess', 'postmistress', 'poetess', 'amah', 'wet nurse', 'wet-nurse', 'wetnurse', 'marquise', 'marchioness', 'gravida III', 'tertigravida', 'gravida I', 'primigravida', 'missis', 'missus', 'laundress', 'laundrywoman', 'washerwoman', 'washwoman', 'mistress', 'ball-breaker', 'ball-buster', 'point woman', 'inamorata', 'sportsman', 'leading lady', 'poseuse', 'dominatrix', 'maenad', 'meter maid', 'fancy woman', 'kept woman', 'mistress', 'gay woman', 'tribade', 'lesbian', 'horsewoman', 'siren', 'temptress', 'femme fatale', 'enchantress', 'niqaabi', 'bas bleu', 'bluestocking', 'girl', 'girlfriend', 'lady friend', 'outdoorswoman', 'romp', 'hoyden', 'tomboy', 'actress', 'mill-girl', 'taskmistress', 'baroness']
+
+Word('oewn-proprietress-n')
+[(['proprietress'], [Synset('oewn-10408623-n'), Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['proprietress'], [Synset('oewn-10408623-n'), Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['proprietress'], [Synset('oewn-10408623-n'), Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['proprietress'], [Synset('oewn-10408623-n'), Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+[(['proprietress'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['proprietress'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['proprietress'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['proprietress'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+
+Word('oewn-hostess-n')
+[(['hostess'], [Synset('oewn-10206393-n'), Synset('oewn-10428069-n'), Synset('oewn-10408623-n'), Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10206393-n'), Synset('oewn-10428069-n'), Synset('oewn-10408623-n'), Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10206393-n'), Synset('oewn-10428069-n'), Synset('oewn-10408623-n'), Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10206393-n'), Synset('oewn-10428069-n'), Synset('oewn-10408623-n'), Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+[(['hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['stewardess', 'hostess', 'air hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['stewardess', 'hostess', 'air hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['stewardess', 'hostess', 'air hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['stewardess', 'hostess', 'air hostess'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+
+Word('oewn-viscountess-n')
+[(['viscountess'], [Synset('oewn-10432655-n'), Synset('oewn-10291374-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10432655-n'), Synset('oewn-10291374-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10432655-n'), Synset('oewn-10291374-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10432655-n'), Synset('oewn-10291374-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+[(['viscountess'], [Synset('oewn-10800308-n'), Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10800308-n'), Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10800308-n'), Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10800308-n'), Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['viscountess'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+
+Word('oewn-bondsman-n')
+[(['bondman', 'bondsman'], [Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondman', 'bondsman'], [Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondman', 'bondsman'], [Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondman', 'bondsman'], [Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondman', 'bondsman'], [Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondman', 'bondsman'], [Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondman', 'bondsman'], [Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondman', 'bondsman'], [Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+[(['bondsman'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondsman'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondsman'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['bondsman'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+
+Word('oewn-king-n')
+[(['king', 'Rex', 'male monarch'], [Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king', 'Rex', 'male monarch'], [Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king', 'Rex', 'male monarch'], [Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king', 'Rex', 'male monarch'], [Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king', 'power', 'baron', 'big businessman', 'business leader', 'top executive', 'tycoon', 'magnate', 'mogul'], [Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king', 'power', 'baron', 'big businessman', 'business leader', 'top executive', 'tycoon', 'magnate', 'mogul'], [Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king', 'power', 'baron', 'big businessman', 'business leader', 'top executive', 'tycoon', 'magnate', 'mogul'], [Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king', 'power', 'baron', 'big businessman', 'business leader', 'top executive', 'tycoon', 'magnate', 'mogul'], [Synset('oewn-09901459-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+[(['king'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['king'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+
+Word('oewn-King-n')
+[]
+[]
+
+Word('oewn-postmistress-n')
+[(['postmistress'], [Synset('oewn-10479141-n'), Synset('oewn-10318314-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['postmistress'], [Synset('oewn-10479141-n'), Synset('oewn-10318314-n'), Synset('oewn-10306910-n'), Synset('oewn-09647338-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['postmistress'], [Synset('oewn-10479141-n'), Synset('oewn-10318314-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['postmistress'], [Synset('oewn-10479141-n'), Synset('oewn-10318314-n'), Synset('oewn-10306910-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+[(['postmistress'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['postmistress'], [Synset('oewn-10807146-n'), Synset('oewn-09642198-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['postmistress'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00004258-n'), Synset('oewn-00003553-n'), Synset('oewn-00002684-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')]), (['postmistress'], [Synset('oewn-10807146-n'), Synset('oewn-09628463-n'), Synset('oewn-00007846-n'), Synset('oewn-00004475-n'), Synset('oewn-00007347-n'), Synset('oewn-00001930-n'), Synset('oewn-00001740-n')])]
+oewn-10023237-n: den mother (mother) F
+oewn-10023237-n: den mother (mother) F
+oewn-10524678-n: railbird (bird) F
+oewn-09902904-n: buster (buster) M
+oewn-10206975-n: host (host) M
+oewn-10746321-n: travel agent (gent) M
+oewn-10103295-n: fellow (fellow) M
+oewn-10103295-n: fellow (fellow) M
+oewn-10545875-n: bacchant (bacchant) M
+oewn-10068420-n: elder statesman (statesman) M
+oewn-11286693-n: Rochambeau (beau) M
+oewn-11286693-n: Rochambeau (beau) M
+oewn-11286693-n: Comte de Rochambeau (beau) M
+oewn-11286693-n: Comte de Rochambeau (beau) M
+oewn-10117611-n: flower girl (girl) F
+oewn-10117611-n: flower girl (girl) F
+oewn-10117611-n: flower girl (girl) F
+oewn-09669955-n: Arapaho (ho) F
+oewn-09669955-n: Arapahoe (hoe) F
+oewn-09797585-n: literary agent (gent) M
+oewn-09939229-n: choirmaster (master) M
+oewn-09939229-n: choirmaster (master) M
+oewn-10337158-n: military policeman (policeman) M
+oewn-09797416-n: business agent (gent) M
+oewn-11329953-n: Speer (peer) M
+oewn-11329953-n: Albert Speer (peer) M
+oewn-11370281-n: John Trumbull (bull) M
+oewn-11370281-n: Trumbull (bull) M
+oewn-09865763-n: bedfellow (fellow) M
+oewn-09865763-n: bedfellow (fellow) M
+oewn-10551505-n: ringmaster (master) M
+oewn-10551505-n: ringmaster (master) M
+oewn-09869006-n: sweetheart (sweetheart) F
+oewn-10491317-n: prima donna (donna) F
+oewn-10702400-n: sweetheart (sweetheart) F
+oewn-10491444-n: prima donna (donna) F
+oewn-10318917-n: host (host) M
+oewn-09871587-n: bey (bey) M
+oewn-10535710-n: regent (gent) M
+oewn-10377606-n: nightbird (bird) F
+oewn-10509726-n: psycho (ho) F
+oewn-10331042-n: messenger boy (boy) M
+oewn-10331042-n: messenger boy (boy) M
+oewn-10331042-n: errand boy (boy) M
+oewn-10331042-n: errand boy (boy) M
+oewn-10717864-n: TV newsman (newsman) M
+oewn-10672968-n: steamfitter (fitter) M
+oewn-10113587-n: fishwife (wife) F
+oewn-10067809-n: ejaculator (ejaculator) M
+oewn-10520527-n: question master (master) M
+oewn-10520527-n: question master (master) M
+oewn-10520527-n: quizmaster (master) M
+oewn-10520527-n: quizmaster (master) M
+oewn-09711521-n: Basotho (ho) F
+oewn-09939148-n: choirboy (boy) M
+oewn-09939148-n: choirboy (boy) M
+oewn-11370509-n: Jonathan Trumbull (bull) M
+oewn-11370509-n: Trumbull (bull) M
+oewn-10393500-n: agent (gent) M
+oewn-10393500-n: federal agent (gent) M
+oewn-10799781-n: witch (witch) F
+oewn-10799781-n: witch (witch) F
+oewn-10584625-n: scrub nurse (nurse) F
+oewn-09993154-n: coxswain (swain) M
+oewn-11157918-n: Henry Wadsworth Longfellow (fellow) M
+oewn-11157918-n: Henry Wadsworth Longfellow (fellow) M
+oewn-11157918-n: Longfellow (fellow) M
+oewn-11157918-n: Longfellow (fellow) M
+oewn-10112649-n: first lady (first lady) F
+oewn-10112649-n: first lady (lady) F
+oewn-10112649-n: first lady (lady) F
+oewn-10263180-n: lady's maid (maid) F
+oewn-10023138-n: den mother (mother) F
+oewn-10023138-n: den mother (mother) F
+oewn-10337621-n: mill agent (gent) M
+oewn-10126411-n: foster-nurse (nurse) F
+oewn-89388690-n: king (king) M
+oewn-89388690-n: king (king) M
+oewn-89388690-n: king (king) F
+oewn-10007754-n: dairymaid (maid) F
+oewn-10007754-n: milkmaid (maid) F
+oewn-10323685-n: mayoress (mayoress) F
+oewn-09851102-n: bad guy (guy) M
+oewn-09847846-n: baby buster (buster) M
+oewn-09847846-n: buster (buster) M
+oewn-10597162-n: selling agent (gent) M
+oewn-10779867-n: votary (votary) M
+oewn-09682366-n: Navaho (ho) F
+oewn-10234307-n: artificer (artificer) M
+oewn-10637750-n: sob sister (sister) F
+oewn-89782767-n: first gentleman (gentleman) M
+oewn-09898387-n: bull (bull) M
+oewn-10700641-n: subsister (sister) F
+oewn-10961507-n: Douglass (lass) F
+oewn-10961507-n: Frederick Douglass (lass) F
+oewn-11370388-n: John Trumbull (bull) M
+oewn-11370388-n: Trumbull (bull) M
+oewn-10629612-n: slave owner (owner) M
+oewn-10074683-n: employment agent (gent) M
+oewn-09652665-n: ticket agent (gent) M
+oewn-10004490-n: customer agent (gent) M
+oewn-10513507-n: purchasing agent (gent) M
+oewn-09940867-n: fall guy (guy) M
+oewn-09868183-n: bellboy (boy) M
+oewn-09868183-n: bellboy (boy) M
+oewn-10822635-n: yardmaster (master) M
+oewn-10822635-n: yardmaster (master) M
+oewn-10822635-n: trainmaster (master) M
+oewn-10822635-n: trainmaster (master) M
+oewn-10760525-n: upstart (tart) F
+oewn-10123978-n: honcho (ho) F
+oewn-11230095-n: Michel de Notredame (dame) F
+oewn-11230095-n: Michel de Notredame (dame) F
+oewn-11376631-n: Otho (ho) F
+oewn-09884297-n: bondsman (bondsman) F
+oewn-10098113-n: paramour (paramour) F
+oewn-10535887-n: regent (gent) M
+oewn-09897417-n: brother (brother) M
+oewn-10518940-n: female monarch (male monarch) M
+oewn-10301243-n: magus (magus) M
+oewn-09955448-n: fellow (fellow) M
+oewn-09955448-n: fellow (fellow) M
+oewn-10748650-n: attempter (tempter) M
+oewn-11107081-n: John of Gaunt (aunt) F
+oewn-11281473-n: Armand Jean du Plessis (sis) F
+oewn-09932698-n: hatcheck girl (girl) F
+oewn-09932698-n: hatcheck girl (girl) F
+oewn-09932698-n: hatcheck girl (girl) F
+oewn-09932698-n: check girl (girl) F
+oewn-09932698-n: check girl (girl) F
+oewn-09932698-n: check girl (girl) F
+oewn-10231336-n: International Grandmaster (master) M
+oewn-10231336-n: International Grandmaster (master) M
+oewn-10694581-n: sundowner (owner) M
+oewn-10394240-n: oilman (oilman) M
+oewn-10479599-n: potboy (boy) M
+oewn-10479599-n: potboy (boy) M
+oewn-10755916-n: uncle (uncle) M
+oewn-10202130-n: homeowner (owner) M
+oewn-10204124-n: hooker (hooker) F
+oewn-10422348-n: part-owner (owner) M
+oewn-09956514-n: college boy (boy) M
+oewn-09956514-n: college boy (boy) M
+oewn-10214185-n: operator (operator) M
+oewn-10214185-n: hustler (hustler) F
+oewn-10529403-n: house agent (gent) M
+oewn-10529403-n: real estate agent (gent) M
+oewn-10529403-n: land agent (gent) M
+oewn-10529403-n: estate agent (gent) M
+oewn-10791957-n: webmaster (master) M
+oewn-10791957-n: webmaster (master) M
+oewn-80620228-n: trophy husband (husband) M
+oewn-11168738-n: Madonna (donna) F
+oewn-10427699-n: patron (patron) M
+oewn-10238791-n: gaolbird (bird) F
+oewn-10238791-n: jail bird (bird) F
+oewn-10238791-n: jailbird (bird) F
+oewn-10258446-n: bachelor (bachelor) M
+oewn-10258446-n: knight bachelor (bachelor) M
+oewn-10773949-n: ravisher (ravisher) F
+oewn-10188050-n: Homo heidelbergensis (sis) F
+oewn-10709498-n: talent agent (gent) M
+oewn-10010315-n: dance master (master) M
+oewn-10010315-n: dance master (master) M
+oewn-10010315-n: dancing-master (master) M
+oewn-10010315-n: dancing-master (master) M
+oewn-10655738-n: spinster (spinster) F
+oewn-10142098-n: gaucho (ho) F
+oewn-10068293-n: elder statesman (statesman) M
+oewn-10322977-n: matron (matron) F
+oewn-10322977-n: matron (matron) F
+oewn-10489196-n: press agent (gent) M
+oewn-10061492-n: early bird (bird) F
+oewn-90009741-n: fangirl (girl) F
+oewn-90009741-n: fangirl (girl) F
+oewn-90009741-n: fangirl (girl) F
+oewn-10640876-n: sod (sod) M
+oewn-09796794-n: agent (gent) M
+oewn-09954892-n: cooperator (operator) M
+oewn-10111118-n: fire chief (chief) M
+oewn-11180666-n: Groucho (ho) F
+oewn-10318579-n: master (master) M
+oewn-10318579-n: master (master) M
+oewn-09850005-n: backroom boy (boy) M
+oewn-09850005-n: backroom boy (boy) M
+oewn-09925746-n: chambermaid (maid) F
+oewn-10771378-n: vice-regent (gent) M
+oewn-10204302-n: hooker (hooker) F
+oewn-10724535-n: thane (thane) M
+oewn-09862831-n: bat boy (boy) M
+oewn-09862831-n: bat boy (boy) M
+oewn-10424974-n: past master (master) M
+oewn-10424974-n: past master (master) M
+oewn-10677408-n: shareowner (owner) M
+oewn-09961245-n: commander in chief (chief) M
+oewn-09961245-n: commander-in-chief (chief) M
+oewn-09903082-n: bronco buster (buster) M
+oewn-09903082-n: broncobuster (buster) M
+oewn-09903082-n: buster (buster) M
+oewn-10136811-n: gaffer (gaffer) M
+oewn-10136811-n: gaffer (gaffer) M
+oewn-10207110-n: hostess (hostess) M
+oewn-10719850-n: renter (renter) M
+oewn-10525052-n: rainmaker (rainmaker) M
+oewn-10765000-n: gentleman (gentleman) M
+oewn-10765000-n: gentleman's gentleman (gentleman) M
+oewn-10497298-n: student nurse (nurse) F
+oewn-09905221-n: cabin boy (boy) M
+oewn-09905221-n: cabin boy (boy) M
+oewn-09849044-n: bacchant (bacchant) M
+oewn-10760809-n: upstart (tart) F
+oewn-10154390-n: godmother (mother) F
+oewn-10154390-n: godmother (mother) F
+oewn-10422907-n: boss (boss) M
+oewn-10422907-n: party boss (boss) M
+oewn-10422907-n: political boss (boss) M
+oewn-09852122-n: bagman (bagman) M
+oewn-10388497-n: nympho (ho) F
+oewn-10222754-n: Indian agent (gent) M
+oewn-10462606-n: pipe fitter (fitter) M
+oewn-10673454-n: amanuensis (sis) F
+oewn-10652848-n: looker (looker) F
+oewn-09935109-n: chess master (master) M
+oewn-09935109-n: chess master (master) M
+oewn-10229332-n: general agent (gent) M
+oewn-10229332-n: insurance agent (gent) M
+oewn-11181402-n: Madonna (donna) F
+oewn-10427471-n: patron (patron) M
+oewn-10549958-n: riding master (master) M
+oewn-10549958-n: riding master (master) M
+oewn-10260211-n: odd fellow (fellow) M
+oewn-10260211-n: odd fellow (fellow) M
+oewn-10260211-n: queer bird (bird) F
+oewn-09943771-n: city boy (boy) M
+oewn-09943771-n: city boy (boy) M
+oewn-10293135-n: underboss (boss) M
+oewn-09899082-n: bullyboy (boy) M
+oewn-09899082-n: bullyboy (boy) M
+oewn-10123833-n: boss (boss) M
+oewn-09632185-n: benefactress (actress) F
+oewn-10807040-n: wolf boy (boy) M
+oewn-10807040-n: wolf boy (boy) M
+oewn-09828372-n: armorer (armorer) M
+oewn-09828372-n: armourer (armourer) M
+oewn-09917055-n: newsboy (boy) M
+oewn-09917055-n: newsboy (boy) M
+oewn-10588855-n: intelligence agent (gent) M
+oewn-10588855-n: secret agent (gent) M
+oewn-10153164-n: government agent (gent) M
+oewn-10349502-n: Monsignor (signor) M
+oewn-10407411-n: outfitter (fitter) M
+oewn-10408139-n: master (master) M
+oewn-10408139-n: master (master) M
+oewn-10344909-n: apotheosis (sis) F
+oewn-10409097-n: owner (owner) M
+oewn-09880801-n: sailor boy (boy) M
+oewn-09880801-n: sailor boy (boy) M
+oewn-10397725-n: onlooker (looker) F
+oewn-11349502-n: Tallchief (chief) M
+oewn-11349502-n: Maria Tallchief (chief) M
+oewn-88005275-n: king (king) M
+oewn-88005275-n: king (king) M
+oewn-10157889-n: good guy (guy) M
+oewn-09805332-n: altar boy (boy) M
+oewn-09805332-n: altar boy (boy) M
+oewn-10162466-n: grandmaster (master) M
+oewn-10162466-n: grandmaster (master) M
+oewn-10113244-n: sergeant first class (lass) F
+oewn-10417585-n: paralegal (gal) F
+oewn-09749725-n: Viking (king) M
+oewn-09749725-n: Viking (king) M
+oewn-09749725-n: Viking (king) F
+oewn-09894491-n: bridge agent (gent) M
+oewn-10386665-n: nurse (nurse) F
+oewn-10170076-n: insurgent (gent) M
+oewn-09900347-n: burgomaster (master) M
+oewn-09900347-n: burgomaster (master) M
+oewn-10633741-n: smasher (masher) M
+oewn-10633741-n: smasher (smasher) F
+oewn-10661153-n: undercover agent (gent) M
+oewn-10184085-n: head nurse (nurse) F
+oewn-11143429-n: Le Duc Tho (ho) F
+oewn-09828109-n: armiger (armiger) M
+oewn-10579534-n: schoolfellow (fellow) M
+oewn-10579534-n: schoolfellow (fellow) M
+oewn-10579534-n: class fellow (fellow) M
+oewn-10579534-n: class fellow (fellow) M
+oewn-11364087-n: Tobey (bey) M
+oewn-11364087-n: Mark Tobey (bey) M
+oewn-09856748-n: bandmaster (master) M
+oewn-09856748-n: bandmaster (master) M
+oewn-11054870-n: Stephen Hawking (king) M
+oewn-11054870-n: Stephen Hawking (king) M
+oewn-11054870-n: Stephen Hawking (king) F
+oewn-11054870-n: Stephen William Hawking (king) M
+oewn-11054870-n: Stephen William Hawking (king) M
+oewn-11054870-n: Stephen William Hawking (king) F
+oewn-11054870-n: Hawking (king) M
+oewn-11054870-n: Hawking (king) M
+oewn-11054870-n: Hawking (king) F
+oewn-10822111-n: yard bird (bird) F
+oewn-10822111-n: yardbird (bird) F
+oewn-10265336-n: property owner (owner) M
+oewn-10265336-n: landowner (owner) M
+oewn-10701004-n: victualer (victualer) M
+oewn-10701004-n: victualler (victualler) M
+oewn-10299827-n: master (master) M
+oewn-10299827-n: master (master) M
+oewn-10601959-n: servant girl (girl) F
+oewn-10601959-n: servant girl (girl) F
+oewn-10601959-n: servant girl (girl) F
+oewn-10601959-n: serving girl (girl) F
+oewn-10601959-n: serving girl (girl) F
+oewn-10601959-n: serving girl (girl) F
+oewn-10141252-n: gas fitter (fitter) M
+oewn-09880059-n: blood brother (blood brother) M
+oewn-09880059-n: blood brother (brother) M
+oewn-09908991-n: camera operator (operator) M
+oewn-10714435-n: teaching fellow (fellow) M
+oewn-10714435-n: teaching fellow (fellow) M
+oewn-09925991-n: hero (hero) M
+oewn-09925991-n: hero (hero) M
+oewn-85259651-n: bondsman (bondsman) M
+oewn-85259651-n: bondsman (bondsman) M
+oewn-10242023-n: jimdandy (dandy) M
+oewn-10117764-n: flower girl (girl) F
+oewn-10117764-n: flower girl (girl) F
+oewn-10117764-n: flower girl (girl) F
+oewn-10803789-n: wise guy (guy) M
+oewn-10569647-n: sandboy (boy) M
+oewn-10569647-n: sandboy (boy) M
+oewn-10426650-n: patriarch (patriarch) M
+oewn-10426650-n: patriarch (patriarch) M
+oewn-10224757-n: doughboy (boy) M
+oewn-10224757-n: doughboy (boy) M
+oewn-09965384-n: fellow (fellow) M
+oewn-09965384-n: fellow (fellow) M
+oewn-09914590-n: career girl (girl) F
+oewn-09914590-n: career girl (girl) F
+oewn-09914590-n: career girl (girl) F
+oewn-10563270-n: ruralist (ruralist) M
+oewn-10536120-n: registered nurse (nurse) F
+oewn-10167369-n: grocery boy (boy) M
+oewn-10167369-n: grocery boy (boy) M
+oewn-10293603-n: Lot's wife (wife) F
+oewn-10278001-n: practical nurse (nurse) F
+oewn-10278001-n: licensed practical nurse (nurse) F
+oewn-10148285-n: ghost (host) M
+oewn-10153370-n: FBI agent (gent) M
+oewn-10053745-n: drill master (master) M
+oewn-10053745-n: drill master (master) M
+oewn-09854405-n: ballet mistress (mistress) F
+oewn-09854405-n: ballet mistress (mistress) F
+oewn-09854405-n: ballet mistress (mistress) F
+oewn-10518571-n: quartermaster (master) M
+oewn-10518571-n: quartermaster (master) M
+oewn-10182584-n: chief (chief) M
+oewn-10241190-n: Jesuit (suit) M
+oewn-10453501-n: ponce (ponce) M
+oewn-09854273-n: ballet master (master) M
+oewn-09854273-n: ballet master (master) M
+oewn-09912467-n: police chief (chief) M
+oewn-10770579-n: vice chairman (airman) M
+oewn-10770579-n: vice chairman (chairman) F
+oewn-10429780-n: paymaster (master) M
+oewn-10429780-n: paymaster (master) M
+oewn-09787015-n: theatrical agent (gent) M
+oewn-09787015-n: actor's agent (gent) M
+oewn-10733492-n: toast mistress (mistress) F
+oewn-10733492-n: toast mistress (mistress) F
+oewn-10733492-n: toast mistress (mistress) F
+oewn-10790559-n: water witch (witch) F
+oewn-10790559-n: water witch (witch) F
+oewn-10047201-n: double agent (gent) M
+oewn-10741678-n: trail boss (boss) M
+oewn-10424852-n: past master (master) M
+oewn-10424852-n: past master (master) M
+oewn-10737570-n: tough guy (guy) M
+oewn-09859605-n: king (king) F
+oewn-10758625-n: general agent (gent) M
+oewn-10758625-n: universal agent (gent) M
+oewn-10416607-n: paperboy (boy) M
+oewn-10416607-n: paperboy (boy) M
+oewn-10139148-n: games-master (master) M
+oewn-10139148-n: games-master (master) M
+oewn-10139148-n: games-mistress (mistress) F
+oewn-10139148-n: games-mistress (mistress) F
+oewn-10139148-n: games-mistress (mistress) F
+oewn-10201076-n: homeboy (boy) M
+oewn-10201076-n: homeboy (boy) M
+oewn-09725792-n: Cheremiss (miss) F
+oewn-10107637-n: filibuster (buster) M
+oewn-11201624-n: Comte de Mirabeau (beau) M
+oewn-11201624-n: Comte de Mirabeau (beau) M
+oewn-11201624-n: Mirabeau (beau) M
+oewn-11201624-n: Mirabeau (beau) M
+oewn-10181947-n: modiste (modiste) F
+oewn-09900475-n: burgrave (burgrave) M
+oewn-10411115-n: pageboy (boy) M
+oewn-10411115-n: pageboy (boy) M
+oewn-09649426-n: peer (peer) M
+oewn-09649426-n: compeer (peer) M
+oewn-10155983-n: gold digger (gold digger) F
+oewn-10131232-n: freight agent (gent) M
+oewn-10611357-n: shop boy (boy) M
+oewn-10611357-n: shop boy (boy) M
+oewn-10227790-n: inquiry agent (gent) M
+oewn-10083726-n: espionage agent (gent) M
+oewn-10178779-n: handmaid (maid) F
+oewn-10178779-n: handmaiden (maiden) F
+oewn-10395493-n: old master (master) M
+oewn-10395493-n: old master (master) M
+oewn-09659757-n: soul brother (brother) M
+oewn-10574739-n: whipping boy (boy) M
+oewn-10574739-n: whipping boy (boy) M
+oewn-09921470-n: cattleman (cattleman) M
+oewn-09835082-n: assignor (signor) M
+oewn-10394828-n: old boy (old boy) M
+oewn-10394828-n: old boy (boy) M
+oewn-10394828-n: old boy (boy) M
+oewn-10651127-n: special agent (gent) M
+oewn-09884374-n: bondsman (bondsman) F
+oewn-10789977-n: water boy (boy) M
+oewn-10789977-n: water boy (boy) M
+oewn-10155473-n: no-account (count) M
+oewn-10431296-n: pitchman (pitchman) M
+oewn-10460611-n: playfellow (fellow) M
+oewn-10460611-n: playfellow (fellow) M
+oewn-10565985-n: sailing master (master) M
+oewn-10565985-n: sailing master (master) M
+oewn-09865673-n: bedfellow (fellow) M
+oewn-09865673-n: bedfellow (fellow) M
+oewn-10499146-n: prodigal (gal) F
+oewn-09789352-n: claim agent (gent) M
+oewn-10031439-n: gumshoe (hoe) F
+oewn-09987658-n: barrow-boy (boy) M
+oewn-09987658-n: barrow-boy (boy) M
+oewn-10365033-n: narcotics agent (gent) M
+oewn-10775729-n: viscountess (viscountess) M
+oewn-10878468-n: Boswell (swell) M
+oewn-10878468-n: James Boswell (swell) M
+oewn-10293049-n: old maid (maid) F
+oewn-10293049-n: old maid (old maid) F
+oewn-09982445-n: yard bird (yard bird) M
+oewn-09982445-n: yard bird (bird) F
+oewn-09982445-n: yardbird (yardbird) M
+oewn-09982445-n: yardbird (bird) F
+oewn-10375912-n: newsagent (gent) M
+oewn-10375912-n: newsstand operator (operator) M
+oewn-10675314-n: hostess (hostess) M
+oewn-10675314-n: air hostess (hostess) M
+oewn-10603953-n: sewing-machine operator (operator) M
+oewn-10368974-n: resister (sister) F
+oewn-10520188-n: queen mother (mother) F
+oewn-10520188-n: queen mother (mother) F
+oewn-10060037-n: Dutch uncle (uncle) M
+oewn-10715051-n: tease (tease) F
+oewn-10205301-n: horseman (horseman) M
+oewn-10064687-n: editor in chief (chief) M
+oewn-09955673-n: workfellow (fellow) M
+oewn-09955673-n: workfellow (fellow) M
+oewn-11379862-n: Sir Anthony Vandyke (dyke) F
+oewn-11379862-n: Anthony Vandyke (dyke) F
+oewn-11379862-n: Vandyke (dyke) F
+oewn-10609860-n: shipping agent (gent) M
+oewn-09900824-n: busboy (boy) M
+oewn-09900824-n: busboy (boy) M
+oewn-10201509-n: homegirl (girl) F
+oewn-10201509-n: homegirl (girl) F
+oewn-10201509-n: homegirl (girl) F
+oewn-10799671-n: whoremaster (master) M
+oewn-10799671-n: whoremaster (master) M
+oewn-10195138-n: road agent (gent) M
+oewn-10129595-n: free agent (gent) M
+oewn-10420525-n: parlormaid (maid) F
+oewn-10420525-n: parlourmaid (maid) F
+oewn-83179919-n: chairman (airman) M
+oewn-09885360-n: booking agent (gent) M
+oewn-10702297-n: sweetheart (sweetheart) F
+oewn-10366935-n: nautch girl (girl) F
+oewn-10366935-n: nautch girl (girl) F
+oewn-10366935-n: nautch girl (girl) F
+oewn-09889236-n: burgher (burgher) M
+oewn-10771453-n: vicereine (vicereine) F
+oewn-09953671-n: college girl (girl) F
+oewn-09953671-n: college girl (girl) F
+oewn-09953671-n: college girl (girl) F
+oewn-11301827-n: Sargent (gent) M
+oewn-11301827-n: John Singer Sargent (gent) M
+oewn-10621666-n: sister (sister) F
+oewn-10628714-n: slattern (slattern) F
+oewn-10628714-n: slut (slut) F
+oewn-10628714-n: slut (slut) F
+oewn-10628714-n: trollop (trollop) F
+oewn-10628714-n: trollop (trollop) F
+oewn-10553431-n: roadman (roadman) M
+oewn-10520302-n: queen regent (gent) M
+oewn-09898610-n: bull (bull) M
+oewn-83226323-n: golf widower (widower) M
+oewn-10284625-n: linkboy (boy) M
+oewn-10284625-n: linkboy (boy) M
+oewn-10779488-n: votary (votary) M
+oewn-11351058-n: Yves Tanguy (guy) M
+oewn-11351058-n: Tanguy (guy) M
+oewn-10519442-n: queen (queen) F
+oewn-10519442-n: queen (queen) F
+oewn-10519442-n: queen (queen) F
+oewn-10129431-n: free agent (gent) M
+oewn-10510894-n: publisher (publisher) M
+oewn-10709764-n: tallyman (tallyman) M
+oewn-10381894-n: passive resister (sister) F
+oewn-10055860-n: drug baron (baron) M
+oewn-10055860-n: drug baron (baron) M
+oewn-10055860-n: drug baron (baron) M
+oewn-10751869-n: trustbuster (buster) M
+oewn-09796453-n: agent (gent) M
+oewn-10137865-n: gallows bird (bird) F
+oewn-10540693-n: repairman (airman) M
+oewn-10738916-n: towner (owner) M
+oewn-10527285-n: rare bird (bird) F
+oewn-09712768-n: Sotho (ho) F
+oewn-09873287-n: head honcho (honcho) M
+oewn-09873287-n: head honcho (ho) F
+oewn-10768791-n: old-timer (old-timer) M
+oewn-10768791-n: oldtimer (oldtimer) M
+oewn-10313681-n: margrave (margrave) M
+oewn-10582742-n: scoutmaster (master) M
+oewn-10582742-n: scoutmaster (master) M
+oewn-10126278-n: foster mother (mother) F
+oewn-10126278-n: foster mother (mother) F
+oewn-10126278-n: foster-mother (mother) F
+oewn-10126278-n: foster-mother (mother) F
+oewn-09990915-n: agricultural agent (gent) M
+oewn-09990915-n: county agent (gent) M
+oewn-09990915-n: extension agent (gent) M
+oewn-10020810-n: delivery boy (boy) M
+oewn-10020810-n: delivery boy (boy) M
+oewn-09881589-n: boatswain (swain) M
+oewn-10520091-n: queen dowager (dowager) F
+oewn-10459494-n: playboy (boy) M
+oewn-10459494-n: playboy (boy) M
+oewn-11311169-n: George Segal (gal) F
+oewn-11311169-n: Segal (gal) F
+oewn-10288775-n: lockmaster (master) M
+oewn-10288775-n: lockmaster (master) M
+oewn-11332357-n: Standish (dish) F
+oewn-11332357-n: Miles Standish (dish) F
+oewn-11332357-n: Myles Standish (dish) F
+oewn-10229738-n: insurgent (gent) M
+oewn-10531794-n: recruit (recruit) M
+oewn-10353551-n: motorcycle policeman (policeman) M
+oewn-10251212-n: king (king) F
+oewn-09851993-n: bag lady (lady) F
+oewn-09851993-n: bag lady (lady) F
+oewn-10420317-n: parliamentary agent (gent) M
+oewn-10414028-n: palatine (palatine) M
+oewn-10733335-n: toastmaster (master) M
+oewn-10733335-n: toastmaster (master) M
+oewn-09896590-n: brother (brother) M
+oewn-90000401-n: camgirl (girl) F
+oewn-90000401-n: camgirl (girl) F
+oewn-90000401-n: camgirl (girl) F
+oewn-09978048-n: consignor (signor) M
+oewn-10121077-n: football hero (hero) M
+oewn-10121077-n: football hero (hero) M
+oewn-10774832-n: virago (virago) F
+oewn-10502980-n: property master (master) M
+oewn-10502980-n: property master (master) M
+oewn-10410397-n: padrone (padrone) M
+oewn-09864997-n: wolf (wolf) M
+oewn-09826498-n: high priest (priest) M
+oewn-09826498-n: archpriest (priest) M
+oewn-10395389-n: old man (old man) M
+oewn-10395389-n: old man (old man) M
+oewn-10206749-n: host (host) M
+oewn-10096004-n: fairy godmother (mother) F
+oewn-10096004-n: fairy godmother (mother) F
+oewn-10398651-n: operator (operator) M
+oewn-10799573-n: whoremaster (master) M
+oewn-10799573-n: whoremaster (master) M
+oewn-09909644-n: camp follower (camp follower) F
+oewn-10122997-n: foreign agent (gent) M
+oewn-10734333-n: toll agent (gent) M
+oewn-10183618-n: tribal chief (chief) M
+oewn-10183618-n: chief (chief) M
+oewn-10712548-n: internal revenue agent (gent) M
+oewn-11361132-n: Thorndike (dike) F
+oewn-11361132-n: Edward Lee Thorndike (dike) F
+oewn-11361132-n: Edward Thorndike (dike) F
+oewn-10494882-n: pressman (pressman) F
+oewn-10318465-n: master (master) M
+oewn-10318465-n: master (master) M
+oewn-10160449-n: graduate nurse (nurse) F
+oewn-10160449-n: trained nurse (nurse) F
+oewn-09899655-n: bunny girl (girl) F
+oewn-09899655-n: bunny girl (girl) F
+oewn-09899655-n: bunny girl (girl) F
+oewn-10776605-n: visiting nurse (nurse) F
+oewn-10302369-n: housemaid (maid) F
+oewn-10302369-n: amah (amah) F
+oewn-10302369-n: maid (maid) F
+oewn-09843234-n: au pair girl (girl) F
+oewn-09843234-n: au pair girl (girl) F
+oewn-09843234-n: au pair girl (girl) F
+oewn-10268888-n: law agent (gent) M
+oewn-10201178-n: homeboy (boy) M
+oewn-10201178-n: homeboy (boy) M
+oewn-10467639-n: point man (point man) M
+oewn-10490364-n: priest (priest) M
+oewn-09992476-n: cowboy (cowboy) M
+oewn-09992476-n: cowboy (boy) M
+oewn-09992476-n: cowboy (boy) M
+oewn-10716631-n: Teddy boy (boy) M
+oewn-10716631-n: Teddy boy (boy) M
+oewn-09992602-n: cowboy (cowboy) M
+oewn-09992602-n: cowboy (boy) M
+oewn-09992602-n: cowboy (boy) M
+oewn-09887563-n: Boswell (swell) M
+oewn-10391029-n: office boy (boy) M
+oewn-10391029-n: office boy (boy) M
+oewn-10194879-n: high priest (priest) M
+oewn-10458386-n: plantation owner (owner) M
+oewn-10683779-n: striptease (tease) F
+oewn-10609647-n: shipowner (owner) M
+oewn-10908153-n: Henry Cavendish (dish) F
+oewn-10908153-n: Cavendish (dish) F
+oewn-10318149-n: master (master) M
+oewn-10318149-n: master (master) M
+oewn-10264610-n: land agent (gent) M
+oewn-11042305-n: Haile Selassie (lassie) F
+oewn-10061595-n: early bird (bird) F
+oewn-09994178-n: artificer (artificer) M
+oewn-10630783-n: sleeping beauty (beauty) F
+oewn-10290325-n: lone wolf (wolf) M
+oewn-10387393-n: nurse-midwife (midwife) F
+oewn-10387393-n: nurse-midwife (wife) F
+oewn-10663740-n: groom (groom) M
+oewn-10663740-n: groom (groom) M
+oewn-10663740-n: stableboy (boy) M
+oewn-10663740-n: stableboy (boy) M
+oewn-10222917-n: Indian chief (chief) M
+oewn-10663501-n: gallant (gallant) M
+oewn-10586524-n: sea king (king) M
+oewn-10586524-n: sea king (king) M
+oewn-10586524-n: sea king (king) F
+oewn-10711765-n: taskmaster (master) M
+oewn-10711765-n: taskmaster (master) M
+oewn-11376387-n: John Hoyer Updike (dike) F
+oewn-11376387-n: John Updike (dike) F
+oewn-11376387-n: Updike (dike) F
+oewn-10098586-n: sodbuster (buster) M
+oewn-09887362-n: boss (boss) M
+oewn-09792668-n: resister (sister) F
+oewn-09896358-n: brother (brother) M
+oewn-10772598-n: master (master) M
+oewn-10772598-n: master (master) M
