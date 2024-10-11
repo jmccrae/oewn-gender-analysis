@@ -1,0 +1,8466 @@
+- add_relation:
+    relation: hypernym
+    source: 10371939-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09851993-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10178779-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10519442-n
+    target: 10800308-n
+- add_relation:
+    relation: hypernym
+    source: 10491444-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10733492-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 82074520-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10201509-n
+    target: 10149362-n
+- add_relation:
+    relation: hypernym
+    source: 90009741-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10194721-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10023237-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09925746-n
+    target: 10302369-n
+- add_relation:
+    relation: hypernym
+    source: 10071491-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10601959-n
+    target: 10149362-n
+- add_relation:
+    relation: hypernym
+    source: 10315032-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10112649-n
+    target: 10807146-n
+- add_synset:
+    definition: female governor of a country or province who rules as the representative
+      of his or her king or sovereign
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10771453-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- move_entry:
+    lemma: vicereine
+    synset: 10771453-n
+    target_synset: last
+- add_relation:
+    relation: hypernym
+    source: 09701369-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10117764-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10323685-n
+    target: 10807146-n
+- change_definition:
+    definition: a female generous benefactor
+    synset: 10096004-n
+- add_relation:
+    relation: hypernym
+    source: 10096004-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10293603-n
+    target: 10807146-n
+- add_synset:
+    definition: a female who sells fish
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10113587-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- move_entry:
+    lemma: fishwife
+    synset: 10113587-n
+    target_synset: last
+- add_relation:
+    relation: hypernym
+    source: 09843234-n
+    target: 10149362-n
+- add_relation:
+    relation: hypernym
+    source: 09854405-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10773585-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10499078-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10783288-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10213269-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10520188-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10388497-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09899655-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10608474-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10263180-n
+    target: 10302369-n
+- add_relation:
+    relation: hypernym
+    source: 10126278-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09932698-n
+    target: 10807146-n
+- change_definition:
+    definition: a woman who is sleeping soundly
+    synset: 10630783-n
+- add_relation:
+    relation: hypernym
+    source: 10630783-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10742879-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10007754-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10117611-n
+    target: 10149362-n
+- add_relation:
+    relation: hypernym
+    source: 10302369-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10491317-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10387393-n
+    target: 10334494-n
+- add_relation:
+    relation: hypernym
+    source: 10628714-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10428183-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 90000401-n
+    target: 10807146-n
+- add_synset:
+    definition: a female who uses a divining rod to find underground water
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10790559-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- move_entry:
+    lemma: water witch
+    synset: 10790559-n
+    target_synset: last
+- add_relation:
+    relation: hypernym
+    source: 10787100-n
+    target: 10807146-n
+- add_synset:
+    definition: the female teacher in charge of games at a school
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10139148-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- move_entry:
+    lemma: games-mistress
+    synset: 10139148-n
+    target_synset: last
+- add_relation:
+    relation: hypernym
+    source: 10159689-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10520091-n
+    target: 10799960-n
+- add_relation:
+    relation: hypernym
+    source: 09953671-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10420525-n
+    target: 10302369-n
+- add_relation:
+    relation: hypernym
+    source: 10366935-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10014346-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09632185-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10322977-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10023138-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10621666-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10229140-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10154390-n
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09914590-n
+    target: 10807146-n
+- add_synset:
+    definition: a female believer in Wicca
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10799781-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- move_entry:
+    lemma: witch
+    synset: 10799781-n
+    target_synset: last
+- add_synset:
+    definition: a man who practices medicine
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10325469-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: medical man
+    synset: 10325469-n
+    target_synset: last
+- add_synset:
+    definition: a woman who practices medicine
+    lemmas:
+    - medical woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10325469-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male tally clerk
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10709764-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: tallyman
+    synset: 10709764-n
+    target_synset: last
+- add_synset:
+    definition: a female tally clerk
+    lemmas:
+    - tallywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10709764-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10394828-n
+    target: 10306910-n
+- change_definition:
+    definition: a very wealthy or powerful businessperson
+    synset: 09859605-n
+- add_synset:
+    definition: a very wealthy or powerful businessman
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09859605-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: big businessman
+    synset: 09859605-n
+    target_synset: last
+- add_synset:
+    definition: a very wealthy or powerful businesswoman
+    lemmas:
+    - big businesswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09859605-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man employed to make deliveries
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10020810-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: deliveryman
+    synset: 10020810-n
+    target_synset: last
+- add_synset:
+    definition: a woman employed to make deliveries
+    lemmas:
+    - delierywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10020810-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a person who delivers the mail
+    synset: 10302734-n
+- add_synset:
+    definition: a man who delivers the mail
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10302734-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: postman
+    synset: 10302734-n
+    target_synset: last
+- move_entry:
+    lemma: mailman
+    synset: 10302734-n
+    target_synset: last
+- add_synset:
+    definition: a woman who delivers the mail
+    lemmas:
+    - postwoman
+    - mailwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10302734-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male desk sergeant
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10027908-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: deskman
+    synset: 10027908-n
+    target_synset: last
+- add_synset:
+    definition: a female desk sergeant
+    lemmas:
+    - deskwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10027908-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10755916-n
+    target: 10306910-n
+- add_synset:
+    definition: a male laborer who tends fires (as on a coal-fired train or steamship)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10678481-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: fireman
+    synset: 10678481-n
+    target_synset: last
+- add_synset:
+    definition: a female laborer who tends fires (as on a coal-fired train or steamship)
+    lemmas:
+    - firewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10678481-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male witch doctor who practices conjury
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10074989-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: conjure man
+    synset: 10074989-n
+    target_synset: last
+- add_synset:
+    definition: a female witch doctor who practices conjury
+    lemmas:
+    - conjure woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10074989-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10283108-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 10411115-n
+    target: 10305010-n
+- add_relation:
+    relation: hypernym
+    source: 10823190-n
+    target: 10306910-n
+- add_synset:
+    definition: a male person whose occupation is catching lobsters
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10288524-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: lobsterman
+    synset: 10288524-n
+    target_synset: last
+- add_synset:
+    definition: a female person whose occupation is catching lobsters
+    lemmas:
+    - lobsterwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10288524-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: lobster worker
+    pos: n
+    synset: 10288524-n
+- add_synset:
+    definition: a male worker in a railway yard
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10822557-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: yardman
+    synset: 10822557-n
+    target_synset: last
+- add_synset:
+    definition: a female worker in a railway yard
+    lemmas:
+    - yardwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10822557-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: yard worker
+    pos: n
+    synset: 10822557-n
+- add_synset:
+    definition: "a male soldier who is a member of a unit called \u2018the guard\u2019\
+      \ or \u2018guards\u2019"
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10169935-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: guardsman
+    synset: 10169935-n
+    target_synset: last
+- add_synset:
+    definition: "a female soldier who is a member of a unit called \u2018the guard\u2019\
+      \ or \u2018guards\u2019"
+    lemmas:
+    - guardswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10169935-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: guard
+    pos: n
+    synset: 10169935-n
+- add_relation:
+    relation: hypernym
+    source: 10258446-n
+    target: 10306910-n
+- add_synset:
+    definition: a male workman who manages or works in a warehouse
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10787187-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: warehouseman
+    synset: 10787187-n
+    target_synset: last
+- add_synset:
+    definition: a female workman who manages or works in a warehouse
+    lemmas:
+    - warehousewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10787187-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who takes photographs professionally
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10446513-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: lensman
+    synset: 10446513-n
+    target_synset: last
+- add_synset:
+    definition: a woman who takes photographs professionally
+    lemmas:
+    - lenswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10446513-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male professional killer who uses a gun
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10171603-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: gunman
+    synset: 10171603-n
+    target_synset: last
+- move_entry:
+    lemma: hit man
+    synset: 10171603-n
+    target_synset: last
+- move_entry:
+    lemma: hitman
+    synset: 10171603-n
+    target_synset: last
+- add_synset:
+    definition: a female professional killer who uses a gun
+    lemmas:
+    - gunwoman
+    - hit woman
+    - hitwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10171603-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who drives a herd
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10191239-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: herdsman
+    synset: 10191239-n
+    target_synset: last
+- add_synset:
+    definition: a woman who drives a herd
+    lemmas:
+    - herdswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10191239-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male member of a fire department who tries to extinguish fires
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10111420-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: fireman
+    synset: 10111420-n
+    target_synset: last
+- add_synset:
+    definition: a female member of a fire department who tries to extinguish fires
+    lemmas:
+    - firewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10111420-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who travels about selling his wares (as on the streets or at
+      carnivals)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10431296-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: packman
+    synset: 10431296-n
+    target_synset: last
+- add_synset:
+    definition: a woman who travels about selling his wares (as on the streets or
+      at carnivals)
+    lemmas:
+    - packwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10431296-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male native or resident of Wales
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09766660-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: Welshman
+    synset: 09766660-n
+    target_synset: last
+- add_synset:
+    definition: a female native or resident of Wales
+    lemmas:
+    - Welshwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09766660-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10331042-n
+    target: 10305010-n
+- add_synset:
+    definition: informal terms for male journalists
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10584088-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: penman
+    synset: 10584088-n
+    target_synset: last
+- add_synset:
+    definition: informal terms for female journalists
+    lemmas:
+    - penwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10584088-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10395389-n
+    target: 10306910-n
+- add_synset:
+    definition: (slang) offensive term for male Native Americans
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09686910-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: red man
+    synset: 09686910-n
+    target_synset: last
+- add_synset:
+    definition: (slang) offensive term for female Native Americans
+    lemmas:
+    - red woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09686910-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male member of the clergy and a spiritual leader of the Christian
+      Church
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09946909-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: clergyman
+    synset: 09946909-n
+    target_synset: last
+- move_entry:
+    lemma: man of the cloth
+    synset: 09946909-n
+    target_synset: last
+- add_synset:
+    definition: a female member of the clergy and a spiritual leader of the Christian
+      Church
+    lemmas:
+    - clergywoman
+    - woman of the cloth
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09946909-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 80620228-n
+    target: 10213586-n
+- add_synset:
+    definition: a male person employed to keep watch for some anticipated event
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10290913-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: lookout man
+    synset: 10290913-n
+    target_synset: last
+- add_synset:
+    definition: a female person employed to keep watch for some anticipated event
+    lemmas:
+    - lookout woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10290913-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who takes care of a garden
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10140190-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: nurseryman
+    synset: 10140190-n
+    target_synset: last
+- add_synset:
+    definition: a woman who takes care of a garden
+    lemmas:
+    - nurserywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10140190-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male soldier in a motorized army unit
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09922064-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: cavalryman
+    synset: 09922064-n
+    target_synset: last
+- add_synset:
+    definition: a female soldier in a motorized army unit
+    lemmas:
+    - cavalrywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09922064-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male inhabitant of a plains region (especially the Great Plains
+      of North America)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10457465-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: plainsman
+    synset: 10457465-n
+    target_synset: last
+- add_synset:
+    definition: a female inhabitant of a plains region (especially the Great Plains
+      of North America)
+    lemmas:
+    - plainswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10457465-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: plains inhabitant
+    pos: n
+    synset: 10457465-n
+- add_synset:
+    definition: a male worker engaged in making steel
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10673118-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: steelman
+    synset: 10673118-n
+    target_synset: last
+- add_synset:
+    definition: a female worker engaged in making steel
+    lemmas:
+    - steelwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10673118-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male officer of the law
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10269156-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: lawman
+    synset: 10269156-n
+    target_synset: last
+- add_synset:
+    definition: a female officer of the law
+    lemmas:
+    - lawwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10269156-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10467896-n
+    target: 80600405-n
+- add_synset:
+    definition: a policewoman stationed at an intersection to direct traffic
+    lemmas:
+    - pointswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10740970-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male wise and trusted guide and advisor
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10329163-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: wise man
+    synset: 10329163-n
+    target_synset: last
+- add_synset:
+    definition: a female wise and trusted guide and advisor
+    lemmas:
+    - wise woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10329163-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male quarry worker who splits off blocks of stone
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09893070-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: ledgeman
+    synset: 09893070-n
+    target_synset: last
+- add_synset:
+    definition: a female quarry worker who splits off blocks of stone
+    lemmas:
+    - ledgewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09893070-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09896358-n
+    target: 10306910-n
+- add_synset:
+    definition: a man who is punished for the errors of others
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10574739-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: whipping boy
+    synset: 10574739-n
+    target_synset: last
+- add_synset:
+    definition: a woman who is punished for the errors of others
+    lemmas:
+    - whipping girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10574739-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who owns or operates oil wells
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10394351-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: oilman
+    synset: 10394351-n
+    target_synset: last
+- add_synset:
+    definition: a female person who owns or operates oil wells
+    lemmas:
+    - oil woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10394351-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: oil operator
+    pos: n
+    synset: 10394351-n
+- change_definition:
+    definition: a male person with advertising boards hanging from the shoulders
+    synset: 10569809-n
+- add_relation:
+    relation: hypernym
+    source: 10569809-n
+    target: 10306910-n
+- add_synset:
+    definition: a female person with advertising boards hanging from the shoulders
+    lemmas:
+    - sandwichwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10073616-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a man who lives in the woods
+    synset: 10810024-n
+- add_relation:
+    relation: hypernym
+    source: 10810024-n
+    target: 10306910-n
+- add_synset:
+    definition: a woman who lives in the woods
+    lemmas:
+    - woodswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10563789-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male worker in an inn or public house who serves customers and does
+      various chores
+    synset: 10479599-n
+- add_relation:
+    relation: hypernym
+    source: 10479599-n
+    target: 10306910-n
+- add_synset:
+    definition: a female worker in an inn or public house who serves customers and
+      does various chores
+    lemmas:
+    - pot-girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10073616-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male male who attends a counter (as in a diner)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 89433552-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: counterman
+    synset: 89433552-n
+    target_synset: last
+- add_synset:
+    definition: a female male who attends a counter (as in a diner)
+    lemmas:
+    - counterwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 89433552-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: counterperson
+    pos: n
+    synset: 89433552-n
+- add_synset:
+    definition: a male person who fells trees
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10295742-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: lumberman
+    synset: 10295742-n
+    target_synset: last
+- add_synset:
+    definition: a female person who fells trees
+    lemmas:
+    - lumberwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10295742-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: male farmer who breed or raises livestock
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10677940-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: stockman
+    synset: 10677940-n
+    target_synset: last
+- add_synset:
+    definition: female farmer who breed or raises livestock
+    lemmas:
+    - stockwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10677940-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who assists in a plot
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09972962-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: henchman
+    synset: 09972962-n
+    target_synset: last
+- add_synset:
+    definition: a woman who assists in a plot
+    lemmas:
+    - henchwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09972962-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male exile living on money sent from home
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10539477-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: remittance man
+    synset: 10539477-n
+    target_synset: last
+- add_synset:
+    definition: a female exile living on money sent from home
+    lemmas:
+    - remittance woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10539477-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: remittance person
+    pos: n
+    synset: 10539477-n
+- add_synset:
+    definition: a male guard who keeps watch
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10789727-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: watchman
+    synset: 10789727-n
+    target_synset: last
+- add_synset:
+    definition: a female guard who keeps watch
+    lemmas:
+    - watchwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10789727-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10284625-n
+    target: 10306910-n
+- add_synset:
+    definition: a male specialist in identifying fingerprints
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10110633-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: fingerprint man
+    synset: 10110633-n
+    target_synset: last
+- add_synset:
+    definition: a female specialist in identifying fingerprints
+    lemmas:
+    - fingerprint woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10110633-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who reports news stories via television
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10717864-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: TV newsman
+    synset: 10717864-n
+    target_synset: last
+- add_synset:
+    definition: a woman who reports news stories via television
+    lemmas:
+    - TV newswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10717864-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male laborer who carries supplies to masons or bricklayers
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10199158-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: hodman
+    synset: 10199158-n
+    target_synset: last
+- add_synset:
+    definition: a male television reporter who coordinates a broadcast to which several
+      correspondents contribute
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09812410-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: anchorman
+    synset: 09812410-n
+    target_synset: last
+- add_synset:
+    definition: a female television reporter who coordinates a broadcast to which
+      several correspondents contribute
+    lemmas:
+    - anchorwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09812410-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male executioner who hangs the condemned person
+    synset: 10179208-n
+- add_relation:
+    relation: hypernym
+    source: 10179208-n
+    target: 10306910-n
+- add_synset:
+    definition: a female executioner who hangs the condemned person
+    lemmas:
+    - hangwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10089234-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male native or inhabitant of Norway
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09744816-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: Norseman
+    synset: 09744816-n
+    target_synset: last
+- add_synset:
+    definition: a female native or inhabitant of Norway
+    lemmas:
+    - Norsewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09744816-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who takes the place of another (as when things get dangerous
+      or difficult)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10667676-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: backup man
+    synset: 10667676-n
+    target_synset: last
+- add_synset:
+    definition: a woman who takes the place of another (as when things get dangerous
+      or difficult)
+    lemmas:
+    - backup woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10667676-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10611357-n
+    target: 10305010-n
+- add_synset:
+    definition: a man who travels by raft
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10524138-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: raftman
+    synset: 10524138-n
+    target_synset: last
+- move_entry:
+    lemma: raftsman
+    synset: 10524138-n
+    target_synset: last
+- add_synset:
+    definition: a woman who travels by raft
+    lemmas:
+    - raftswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10524138-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09921470-n
+    target: 10306910-n
+- add_synset:
+    definition: a woman who raises (or tends) cattle
+    lemmas:
+    - cattlewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09921470-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male herder or swine
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10703076-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: pigman
+    synset: 10703076-n
+    target_synset: last
+- change_definition:
+    definition: a male professional killer
+    synset: 10181609-n
+- add_relation:
+    relation: hypernym
+    source: 10181609-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 10121750-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 10314263-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 10224757-n
+    target: 10306910-n
+- add_synset:
+    definition: a male inhabitant of the earth
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10718758-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: earthman
+    synset: 10718758-n
+    target_synset: last
+- add_synset:
+    definition: a female inhabitant of the earth
+    lemmas:
+    - earthwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10718758-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a man who enjoys outdoor activities
+    synset: 10658757-n
+- add_relation:
+    relation: hypernym
+    source: 10658757-n
+    target: 10306910-n
+- add_synset:
+    definition: a woman who enjoys outdoor activities
+    lemmas:
+    - sporting woman
+    - outdoor woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09806201-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male man who plows
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10462389-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: ploughman
+    synset: 10462389-n
+    target_synset: last
+- move_entry:
+    lemma: plowman
+    synset: 10462389-n
+    target_synset: last
+- add_synset:
+    definition: a female man who plows
+    lemmas:
+    - ploughwoman
+    - plowwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10462389-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male merchant who owns or manages a shop
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10611560-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: tradesman
+    synset: 10611560-n
+    target_synset: last
+- add_synset:
+    definition: a female merchant who owns or manages a shop
+    lemmas:
+    - tradeswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10611560-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who holds no title
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09633435-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: common man
+    synset: 09633435-n
+    target_synset: last
+- add_synset:
+    definition: a female person who holds no title
+    lemmas:
+    - common woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09633435-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male retailer of meat
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09903843-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: meatman
+    synset: 09903843-n
+    target_synset: last
+- add_synset:
+    definition: a man who plays the game of golf
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10156479-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: linksman
+    synset: 10156479-n
+    target_synset: last
+- add_synset:
+    definition: a woman who plays the game of golf
+    lemmas:
+    - linkswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10156479-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male creator of great skill in the manual arts
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09994955-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: craftsman
+    synset: 09994955-n
+    target_synset: last
+- add_synset:
+    definition: a female creator of great skill in the manual arts
+    lemmas:
+    - craftswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09994955-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10201076-n
+    target: 10306910-n
+- add_synset:
+    definition: a male important or distinguished visitor
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10776505-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: visiting fireman
+    synset: 10776505-n
+    target_synset: last
+- add_synset:
+    definition: a female important or distinguished visitor
+    lemmas:
+    - visiting firewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10776505-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: visting firefighter
+    pos: n
+    synset: 10776505-n
+- add_synset:
+    definition: a male artist skilled at drawing
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10048793-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: draftsman
+    synset: 10048793-n
+    target_synset: last
+- add_synset:
+    definition: a female artist skilled at drawing
+    lemmas:
+    - draftswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10048793-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male worker who has acquired special skills
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10625393-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: skilled workman
+    synset: 10625393-n
+    target_synset: last
+- add_synset:
+    definition: a female worker who has acquired special skills
+    lemmas:
+    - skilled workwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10625393-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male member of a political party who follows strictly the party
+      line
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10423378-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: party man
+    synset: 10423378-n
+    target_synset: last
+- add_synset:
+    definition: a female member of a political party who follows strictly the party
+      line
+    lemmas:
+    - party woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10423378-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man ranking below or serving in the place of a chairman
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10770579-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: vice chairman
+    synset: 10770579-n
+    target_synset: last
+- add_synset:
+    definition: a woman ranking below or serving in the place of a chairman
+    lemmas:
+    - vice chairwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10770579-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: vice chair
+    pos: n
+    synset: 10770579-n
+- add_entry:
+    lemma: vice chairperson
+    pos: n
+    synset: 10770579-n
+- change_definition:
+    definition: someone stops a vehicle and steals from it
+    synset: 10195138-n
+- add_synset:
+    definition: a holdup man who stops a vehicle and steals from it
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10195138-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: highwayman
+    synset: 10195138-n
+    target_synset: last
+- add_synset:
+    definition: a holdup woman who stops a vehicle and steals from it
+    lemmas:
+    - highwaywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10195138-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male person who is paid to pray for the soul of another
+    synset: 09864306-n
+- add_relation:
+    relation: hypernym
+    source: 09864306-n
+    target: 10306910-n
+- add_synset:
+    definition: a female person who is paid to pray for the soul of another
+    lemmas:
+    - beadswoman
+    - bedeswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10483618-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man employed by a gas company
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10141371-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: gasman
+    synset: 10141371-n
+    target_synset: last
+- add_synset:
+    definition: a woman employed by a gas company
+    lemmas:
+    - gaswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10141371-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: gas worker
+    pos: n
+    synset: 10141371-n
+- add_synset:
+    definition: a man skilled in shooting
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10314614-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: marksman
+    synset: 10314614-n
+    target_synset: last
+- add_synset:
+    definition: a woman skilled in shooting
+    lemmas:
+    - markswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10314614-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male pitcher who does not start the game
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10537787-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: fireman
+    synset: 10537787-n
+    target_synset: last
+- add_synset:
+    definition: a female pitcher who does not start the game
+    lemmas:
+    - firewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10537787-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male restaurant attendant who sets tables and assists waiters and
+      clears away dirty dishes
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09900824-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: busboy
+    synset: 09900824-n
+    target_synset: last
+- change_definition:
+    definition: a male armed thief
+    synset: 10200554-n
+- add_relation:
+    relation: hypernym
+    source: 10200554-n
+    target: 10306910-n
+- add_synset:
+    definition: a female armed thief
+    lemmas:
+    - stickup woman
+    - holdup woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10727453-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who guards an entrance
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10046278-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: doorman
+    synset: 10046278-n
+    target_synset: last
+- add_synset:
+    definition: a woman who guards an entrance
+    lemmas:
+    - doorwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10046278-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male member of a trainband
+    synset: 10741786-n
+- add_relation:
+    relation: hypernym
+    source: 10741786-n
+    target: 10306910-n
+- add_synset:
+    definition: a male herder of sheep (on an open range); someone who keeps the sheep
+      together in a flock
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10607013-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: sheepman
+    synset: 10607013-n
+    target_synset: last
+- add_synset:
+    definition: a female herder of sheep (on an open range); someone who keeps the
+      sheep together in a flock
+    lemmas:
+    - sheepwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10607013-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10201178-n
+    target: 10306910-n
+- add_synset:
+    definition: a male climber of vertical rock faces
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10555161-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: cragsman
+    synset: 10555161-n
+    target_synset: last
+- add_synset:
+    definition: a female climber of vertical rock faces
+    lemmas:
+    - cragswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10555161-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a pilot who positions his aircraft outside and behind (on the wing
+      of) the leader of a flying formation
+    synset: 10802308-n
+- change_definition:
+    definition: a male pilot who positions his aircraft outside and behind (on the
+      wing of) the leader of a flying formation
+    synset: 10802308-n
+- add_relation:
+    relation: hypernym
+    source: 10802308-n
+    target: 10306910-n
+- add_synset:
+    definition: a female pilot who positions his aircraft outside and behind (on the
+      wing of) the leader of a flying formation
+    lemmas:
+    - wingwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10452928-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who shoots a gun (as regards their ability)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10612800-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: gunman
+    synset: 10612800-n
+    target_synset: last
+- add_synset:
+    definition: a female person who shoots a gun (as regards their ability)
+    lemmas:
+    - gunwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10612800-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: gunner
+    pos: n
+    synset: 10612800-n
+- add_synset:
+    definition: a male skilled worker whose job is to repair things
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10540693-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: service man
+    synset: 10540693-n
+    target_synset: last
+- move_entry:
+    lemma: repairman
+    synset: 10540693-n
+    target_synset: last
+- move_entry:
+    lemma: maintenance man
+    synset: 10540693-n
+    target_synset: last
+- add_synset:
+    definition: a female skilled worker whose job is to repair things
+    lemmas:
+    - service woman
+    - repairwoman
+    - maintenance woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10540693-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: servicer
+    pos: n
+    synset: 10540693-n
+- add_synset:
+    definition: a male member of an aircrew
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09800117-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: aircrewman
+    synset: 09800117-n
+    target_synset: last
+- add_synset:
+    definition: a female member of an aircrew
+    lemmas:
+    - aircrewwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09800117-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: aircrew member
+    pos: n
+    synset: 09800117-n
+- add_synset:
+    definition: a man who is not a clergyman or a professional person
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10270224-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: layman
+    synset: 10270224-n
+    target_synset: last
+- add_synset:
+    definition: a woman who is not a clergyman or a professional person
+    lemmas:
+    - laywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10270224-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who maintains the grounds (of an estate or park or athletic
+      field)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10168183-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: groundsman
+    synset: 10168183-n
+    target_synset: last
+- add_synset:
+    definition: a woman who maintains the grounds (of an estate or park or athletic
+      field)
+    lemmas:
+    - groundswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10168183-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who operates a farm
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10098586-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: husbandman
+    synset: 10098586-n
+    target_synset: last
+- add_synset:
+    definition: a female person who operates a farm
+    lemmas:
+    - husbandwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10098586-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male swindler who exploits the confidence of his victim
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09974358-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: con man
+    synset: 09974358-n
+    target_synset: last
+- move_entry:
+    lemma: confidence man
+    synset: 09974358-n
+    target_synset: last
+- add_synset:
+    definition: a female swindler who exploits the confidence of his victim
+    lemmas:
+    - con woman
+    - confidence woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09974358-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: (baseball) a male ballplayer who is batting
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09863364-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: batsman
+    synset: 09863364-n
+    target_synset: last
+- add_synset:
+    definition: (baseball) a female ballplayer who is batting
+    lemmas:
+    - batswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09863364-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who buys large quantities of goods and resells to merchants
+      rather than to the ultimate customers
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10242167-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: middleman
+    synset: 10242167-n
+    target_synset: last
+- add_synset:
+    definition: a woman who buys large quantities of goods and resells to merchants
+      rather than to the ultimate customers
+    lemmas:
+    - middlewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10242167-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10341290-n
+    target: 10306910-n
+- add_synset:
+    definition: a man who delivers coal
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09951887-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: coalman
+    synset: 09951887-n
+    target_synset: last
+- add_synset:
+    definition: a woman who delivers coal
+    lemmas:
+    - coalwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09951887-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: coal seller
+    pos: n
+    synset: 09951887-n
+- change_definition:
+    definition: a male medieval English archer who used a longbow
+    synset: 10290474-n
+- add_relation:
+    relation: hypernym
+    source: 10290474-n
+    target: 10306910-n
+- add_synset:
+    definition: a male member of the military police who polices soldiers and guards
+      prisoners
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10337158-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: military policeman
+    synset: 10337158-n
+    target_synset: last
+- add_synset:
+    definition: a female member of the military police who polices soldiers and guards
+      prisoners
+    lemmas:
+    - military policewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10337158-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: military police officer
+    pos: n
+    synset: 10337158-n
+- add_synset:
+    definition: a male bully employed as a thug or bodyguard
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10359063-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: muscleman
+    synset: 10359063-n
+    target_synset: last
+- add_synset:
+    definition: a female bully employed as a thug or bodyguard
+    lemmas:
+    - musclewoman
+    - muscle woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10359063-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man employed as an errand boy and luggage carrier around hotels
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09868183-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: bellman
+    synset: 09868183-n
+    target_synset: last
+- move_entry:
+    lemma: bellboy
+    synset: 09868183-n
+    target_synset: last
+- add_synset:
+    definition: a woman employed as an errand boy and luggage carrier around hotels
+    lemmas:
+    - bellwoman
+    - bellgirl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09868183-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10076527-n
+    target: 10306910-n
+- add_synset:
+    definition: a male sponsor who books and stages public entertainments
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10613153-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: showman
+    synset: 10613153-n
+    target_synset: last
+- add_synset:
+    definition: a female sponsor who books and stages public entertainments
+    lemmas:
+    - showwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10613153-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who lives in a tribe
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10748276-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: tribesman
+    synset: 10748276-n
+    target_synset: last
+- add_synset:
+    definition: a woman who lives in a tribe
+    lemmas:
+    - tribeswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10748276-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: tribesperson
+    pos: n
+    synset: 10748276-n
+- add_synset:
+    definition: a man whose occupation is printing
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10494882-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: pressman
+    synset: 10494882-n
+    target_synset: last
+- add_synset:
+    definition: a woman whose occupation is printing
+    lemmas:
+    - presswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10494882-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a person who steers a ship
+    synset: 10189389-n
+- add_synset:
+    definition: a man who steers a ship
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10189389-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: steersman
+    synset: 10189389-n
+    target_synset: last
+- move_entry:
+    lemma: helmsman
+    synset: 10189389-n
+    target_synset: last
+- add_synset:
+    definition: a woman who steers a ship
+    lemmas:
+    - steerswoman
+    - helmswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10189389-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male serviceman in the artillery
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09831257-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: artilleryman
+    synset: 09831257-n
+    target_synset: last
+- add_synset:
+    definition: a female serviceman in the artillery
+    lemmas:
+    - artillerywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09831257-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: someone who makes things out of wood
+    synset: 10809832-n
+- add_synset:
+    definition: a man who makes things out of wood
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10809832-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: woodman
+    synset: 10809832-n
+    target_synset: last
+- move_entry:
+    lemma: woodsman
+    synset: 10809832-n
+    target_synset: last
+- add_synset:
+    definition: a woman who makes things out of wood
+    lemmas:
+    - woodswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10809832-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10518136-n
+    target: 10306910-n
+- add_synset:
+    definition: (baseball) a man who plays first base
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10112257-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: first baseman
+    synset: 10112257-n
+    target_synset: last
+- add_synset:
+    definition: (baseball) a woman who plays first base
+    lemmas:
+    - first basewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10112257-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male financier who works in one of the banks in the City of London
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09943653-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: city man
+    synset: 09943653-n
+    target_synset: last
+- add_synset:
+    definition: a female financier who works in one of the banks in the City of London
+    lemmas:
+    - city woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09943653-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: city financier
+    pos: n
+    synset: 09943653-n
+- add_synset:
+    definition: a man who does special exercises to develop a brawny musculature
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09882251-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: muscleman
+    synset: 09882251-n
+    target_synset: last
+- add_synset:
+    definition: a woman who does special exercises to develop a brawny musculature
+    lemmas:
+    - musclewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09882251-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male learned person; someone who by long study has gained mastery
+      in one or more disciplines
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10577282-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: bookman
+    synset: 10577282-n
+    target_synset: last
+- add_synset:
+    definition: a female learned person; someone who by long study has gained mastery
+      in one or more disciplines
+    lemmas:
+    - bookwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10577282-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male professional whose work is consistently of high quality
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09995160-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: craftsman
+    synset: 09995160-n
+    target_synset: last
+- add_synset:
+    definition: a female professional whose work is consistently of high quality
+    lemmas:
+    - craftswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09995160-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: craftsperson
+    pos: n
+    synset: 09995160-n
+- add_synset:
+    definition: a man employed in a stable to take care of the horses
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10663740-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: stableman
+    synset: 10663740-n
+    target_synset: last
+- move_entry:
+    lemma: stableboy
+    synset: 10663740-n
+    target_synset: last
+- add_synset:
+    definition: a woman employed in a stable to take care of the horses
+    lemmas:
+    - stablewoman
+    - stablegirl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10663740-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who drives or rides in a boat
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09881352-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: boatman
+    synset: 09881352-n
+    target_synset: last
+- move_entry:
+    lemma: waterman
+    synset: 09881352-n
+    target_synset: last
+- add_synset:
+    definition: a woman who drives or rides in a boat
+    lemmas:
+    - boatwoman
+    - waterwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09881352-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: (baseball) a man who plays second base
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10587628-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: second baseman
+    synset: 10587628-n
+    target_synset: last
+- add_synset:
+    definition: (baseball) a woman who plays second base
+    lemmas:
+    - second basewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10587628-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male noncommissioned officer in the British Royal Air Force
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09799988-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: aircraftman
+    synset: 09799988-n
+    target_synset: last
+- move_entry:
+    lemma: aircraftsman
+    synset: 09799988-n
+    target_synset: last
+- add_synset:
+    definition: a female noncommissioned officer in the British Royal Air Force
+    lemmas:
+    - aircraftwoman
+    - aircraftswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09799988-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: aircraft officer
+    pos: n
+    synset: 09799988-n
+- add_synset:
+    definition: a male person used as a cover for some questionable activity
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10133352-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: straw man
+    synset: 10133352-n
+    target_synset: last
+- move_entry:
+    lemma: strawman
+    synset: 10133352-n
+    target_synset: last
+- move_entry:
+    lemma: front man
+    synset: 10133352-n
+    target_synset: last
+- add_synset:
+    definition: a female person used as a cover for some questionable activity
+    lemmas:
+    - straw woman
+    - strawwoman
+    - front woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10133352-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male expert in the science of cultivating plants (fruit or flowers
+      or vegetables or ornamental plants)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10205969-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: plantsman
+    synset: 10205969-n
+    target_synset: last
+- add_synset:
+    definition: a female expert in the science of cultivating plants (fruit or flowers
+      or vegetables or ornamental plants)
+    lemmas:
+    - plantswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10205969-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male inexperienced sailor; a sailor on the first voyage
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10265038-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: landsman
+    synset: 10265038-n
+    target_synset: last
+- add_synset:
+    definition: a female inexperienced sailor; a sailor on the first voyage
+    lemmas:
+    - landswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10265038-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person skilled in large scale financial transactions
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10109789-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: moneyman
+    synset: 10109789-n
+    target_synset: last
+- add_synset:
+    definition: a female person skilled in large scale financial transactions
+    lemmas:
+    - moneywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10109789-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male itinerant Australian laborer who carries his personal belongings
+      in a bundle as he travels around in search of work
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10701616-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: swagman
+    synset: 10701616-n
+    target_synset: last
+- add_synset:
+    definition: a female itinerant Australian laborer who carries his personal belongings
+      in a bundle as he travels around in search of work
+    lemmas:
+    - swagwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10701616-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male tough youth of 1950's and 1960's wearing Edwardian style clothes
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10716631-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: Teddy boy
+    synset: 10716631-n
+    target_synset: last
+- add_synset:
+    definition: a female tough youth of 1950's and 1960's wearing Edwardian style
+      clothes
+    lemmas:
+    - Teddy girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10716631-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male special law-enforcement agent of the United States Treasury
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10732903-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: T-man
+    synset: 10732903-n
+    target_synset: last
+- add_synset:
+    definition: a female special law-enforcement agent of the United States Treasury
+    lemmas:
+    - T-woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10732903-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: treasury agent
+    pos: n
+    synset: 10732903-n
+- add_synset:
+    definition: a male soldier who goes ahead of a patrol
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10467639-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: point man
+    synset: 10467639-n
+    target_synset: last
+- add_synset:
+    definition: a female soldier who goes ahead of a patrol
+    lemmas:
+    - point woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10467639-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: point person
+    pos: n
+    synset: 10467639-n
+- change_definition:
+    definition: a male employee who sacrifices his own individuality for the good
+      of an organization
+    synset: 10402793-n
+- add_relation:
+    relation: hypernym
+    source: 10402793-n
+    target: 10306910-n
+- add_synset:
+    definition: a male player in a band (especially a military band)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09856847-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: bandsman
+    synset: 09856847-n
+    target_synset: last
+- add_synset:
+    definition: a female player in a band (especially a military band)
+    lemmas:
+    - bandswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09856847-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: band player
+    pos: n
+    synset: 09856847-n
+- change_definition:
+    definition: a person who is wealthy
+    synset: 10311713-n
+- add_synset:
+    definition: a man who is wealthy
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10311713-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: rich man
+    synset: 10311713-n
+    target_synset: last
+- move_entry:
+    lemma: wealthy man
+    synset: 10311713-n
+    target_synset: last
+- add_synset:
+    definition: a woman who is wealthy
+    lemmas:
+    - rich woman
+    - wealthy woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10311713-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male city dweller with sophisticated manners and clothing
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09943771-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: city boy
+    synset: 09943771-n
+    target_synset: last
+- add_synset:
+    definition: a female city dweller with sophisticated manners and clothing
+    lemmas:
+    - city girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09943771-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: someone who predicts the weather
+    synset: 10791760-n
+- add_synset:
+    definition: a man who predicts the weather
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10791760-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: weatherman
+    synset: 10791760-n
+    target_synset: last
+- add_synset:
+    definition: a woman who predicts the weather
+    lemmas:
+    - weatherwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10791760-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who operates a barge
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10281085-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: bargeman
+    synset: 10281085-n
+    target_synset: last
+- move_entry:
+    lemma: lighterman
+    synset: 10281085-n
+    target_synset: last
+- add_synset:
+    definition: a woman who operates a barge
+    lemmas:
+    - bargewoman
+    - lighterwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10281085-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10167369-n
+    target: 10305010-n
+- add_synset:
+    definition: a male specialist in the disorders of the ear or nose or throat
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10079131-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: ENT man
+    synset: 10079131-n
+    target_synset: last
+- add_synset:
+    definition: a female specialist in the disorders of the ear or nose or throat
+    lemmas:
+    - ENT woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10079131-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who lives and works on land
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10265204-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: landman
+    synset: 10265204-n
+    target_synset: last
+- move_entry:
+    lemma: landsman
+    synset: 10265204-n
+    target_synset: last
+- add_synset:
+    definition: a female person who lives and works on land
+    lemmas:
+    - landwoman
+    - landswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10265204-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male dealer in seeds
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10595149-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: seedman
+    synset: 10595149-n
+    target_synset: last
+- move_entry:
+    lemma: seedsman
+    synset: 10595149-n
+    target_synset: last
+- add_synset:
+    definition: a female dealer in seeds
+    lemmas:
+    - seedwoman
+    - seedswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10595149-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: seed seller
+    pos: n
+    synset: 10595149-n
+- change_definition:
+    definition: a male leader and organizer and spokesman (especially a political
+      leader)
+    synset: 10134928-n
+- add_relation:
+    relation: hypernym
+    source: 10134928-n
+    target: 10306910-n
+- add_synset:
+    definition: a female leader and organizer and spokesman (especially a political
+      leader)
+    lemmas:
+    - fuglewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09646208-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10076419-n
+    target: 10306910-n
+- add_synset:
+    definition: a male policeman who rides a motorcycle (and who checks the speeds
+      of motorists)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10353551-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: motorcycle policeman
+    synset: 10353551-n
+    target_synset: last
+- add_synset:
+    definition: a female policeman who rides a motorcycle (and who checks the speeds
+      of motorists)
+    lemmas:
+    - motorcycle policewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10353551-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male baseball player valued for the ability to play at several positions
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10762654-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: utility man
+    synset: 10762654-n
+    target_synset: last
+- add_synset:
+    definition: a female baseball player valued for the ability to play at several
+      positions
+    lemmas:
+    - utility woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10762654-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: utility player
+    pos: n
+    synset: 10762654-n
+- add_synset:
+    definition: a male skilled worker who practices some trade or handicraft
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09994178-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: journeyman
+    synset: 09994178-n
+    target_synset: last
+- move_entry:
+    lemma: craftsman
+    synset: 09994178-n
+    target_synset: last
+- add_synset:
+    definition: a female skilled worker who practices some trade or handicraft
+    lemmas:
+    - journeywoman
+    - craftswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09994178-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10416607-n
+    target: 10305010-n
+- add_synset:
+    definition: a male government appointee who investigates complaints by private
+      persons against the government
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10397093-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: ombudsman
+    synset: 10397093-n
+    target_synset: last
+- add_synset:
+    definition: a female government appointee who investigates complaints by private
+      persons against the government
+    lemmas:
+    - ombudswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10397093-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: ombudsperson
+    pos: n
+    synset: 10397093-n
+- add_synset:
+    definition: a male member of the cricket team that is fielding rather than batting
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10106152-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: fieldsman
+    synset: 10106152-n
+    target_synset: last
+- add_synset:
+    definition: a female member of the cricket team that is fielding rather than batting
+    lemmas:
+    - fieldswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10106152-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man skilled in the use of a rifle
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10550252-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: rifleman
+    synset: 10550252-n
+    target_synset: last
+- add_synset:
+    definition: a woman skilled in the use of a rifle
+    lemmas:
+    - riflewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10550252-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: rifler
+    pos: n
+    synset: 10550252-n
+- add_synset:
+    definition: a male railroad employee responsible for a train's brakes
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09892601-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: brakeman
+    synset: 09892601-n
+    target_synset: last
+- add_synset:
+    definition: a female railroad employee responsible for a train's brakes
+    lemmas:
+    - brakewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09892601-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: brake worker
+    pos: n
+    synset: 09892601-n
+- add_synset:
+    definition: a man who works underwater
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10039277-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: frogman
+    synset: 10039277-n
+    target_synset: last
+- add_synset:
+    definition: a woman who works underwater
+    lemmas:
+    - frogwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10039277-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male watchman who works during the night
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10378021-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: night watchman
+    synset: 10378021-n
+    target_synset: last
+- add_synset:
+    definition: a female watchman who works during the night
+    lemmas:
+    - night watchwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10378021-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: night watcher
+    pos: n
+    synset: 10378021-n
+- add_synset:
+    definition: a male policeman who patrols a given region
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10115433-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: patrolman
+    synset: 10115433-n
+    target_synset: last
+- add_synset:
+    definition: a female policeman who patrols a given region
+    lemmas:
+    - patrolwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10115433-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a person of exceptional holiness
+    synset: 10566407-n
+- add_synset:
+    definition: a man of exceptional holiness
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10566407-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: holy man
+    synset: 10566407-n
+    target_synset: last
+- add_synset:
+    definition: a woman of exceptional holiness
+    lemmas:
+    - holy woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10566407-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male laborer who loads and unloads vessels in a port
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10674608-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: longshoreman
+    synset: 10674608-n
+    target_synset: last
+- add_synset:
+    definition: a female laborer who loads and unloads vessels in a port
+    lemmas:
+    - longshorewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10674608-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who serves in the armed forces; a member of a military force
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10602198-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: man
+    synset: 10602198-n
+    target_synset: last
+- move_entry:
+    lemma: serviceman
+    synset: 10602198-n
+    target_synset: last
+- move_entry:
+    lemma: military man
+    synset: 10602198-n
+    target_synset: last
+- add_synset:
+    definition: a woman who serves in the armed forces; a member of a military force
+    lemmas:
+    - woman
+    - servicewoman
+    - military woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10602198-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male student (or former student) at a college or university
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09956514-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: college man
+    synset: 09956514-n
+    target_synset: last
+- move_entry:
+    lemma: college boy
+    synset: 09956514-n
+    target_synset: last
+- add_synset:
+    definition: a male employee whose first loyalty is to the company rather than
+      to fellow workers
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09965916-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: company man
+    synset: 09965916-n
+    target_synset: last
+- add_synset:
+    definition: a female employee whose first loyalty is to the company rather than
+      to fellow workers
+    lemmas:
+    - company woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09965916-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: company person
+    pos: n
+    synset: 09965916-n
+- add_synset:
+    definition: a male football official in charge of recording yardage gained or
+      lost
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10183493-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: head linesman
+    synset: 10183493-n
+    target_synset: last
+- add_synset:
+    definition: a female football official in charge of recording yardage gained or
+      lost
+    lemmas:
+    - head lineswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10183493-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: head linesperson
+    pos: n
+    synset: 10183493-n
+- add_synset:
+    definition: a male laborer hired to do outdoor work (such as mowing lawns)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10822446-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: yardman
+    synset: 10822446-n
+    target_synset: last
+- add_synset:
+    definition: a female laborer hired to do outdoor work (such as mowing lawns)
+    lemmas:
+    - yardwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10822446-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: yard worker
+    pos: n
+    synset: 10822446-n
+- add_synset:
+    definition: a male person who has served in the armed forces
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10769021-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: ex-serviceman
+    synset: 10769021-n
+    target_synset: last
+- add_synset:
+    definition: a female person who has served in the armed forces
+    lemmas:
+    - ex-servicewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10769021-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who claims or is alleged to perform miracles
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10341412-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: miracle man
+    synset: 10341412-n
+    target_synset: last
+- add_synset:
+    definition: a female person who claims or is alleged to perform miracles
+    lemmas:
+    - miracle woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10341412-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male expert adviser involved in making important decisions but usually
+      lacking official status
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09850005-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: backroom boy
+    synset: 09850005-n
+    target_synset: last
+- add_synset:
+    definition: a female expert adviser involved in making important decisions but
+      usually lacking official status
+    lemmas:
+    - backroom girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09850005-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a sailor in the merchant marine; trained in special skills
+    synset: 09775831-n
+- add_synset:
+    definition: a seaman in the merchant marine; trained in special skills
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09775831-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: able seaman
+    synset: 09775831-n
+    target_synset: last
+- move_entry:
+    lemma: able-bodied seaman
+    synset: 09775831-n
+    target_synset: last
+- add_synset:
+    definition: a female sailor in the merchant marine; trained in special skills
+    lemmas:
+    - able seawoman
+    - able-bodied seawoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09775831-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: able-bodied sailor
+    pos: n
+    synset: 09775831-n
+- add_synset:
+    definition: a man who writes comic material for public performers
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10136924-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: gagman
+    synset: 10136924-n
+    target_synset: last
+- add_synset:
+    definition: a woman who writes comic material for public performers
+    lemmas:
+    - gagwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10136924-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who is not socialized
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10801360-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: feral man
+    synset: 10801360-n
+    target_synset: last
+- move_entry:
+    lemma: wild man
+    synset: 10801360-n
+    target_synset: last
+- add_synset:
+    definition: a female person who is not socialized
+    lemmas:
+    - feral woman
+    - wild woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10801360-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: feral person
+    pos: n
+    synset: 10801360-n
+- add_synset:
+    definition: a man whose occupation is preaching the gospel
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10483744-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: preacher man
+    synset: 10483744-n
+    target_synset: last
+- add_synset:
+    definition: a woman whose occupation is preaching the gospel
+    lemmas:
+    - preacher woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10483744-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10607214-n
+    target: 10306910-n
+- add_synset:
+    definition: a male person from the same town as yourself
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10739341-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: townsman
+    synset: 10739341-n
+    target_synset: last
+- add_synset:
+    definition: a female person from the same town as yourself
+    lemmas:
+    - townswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10739341-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: townie
+    pos: n
+    synset: 10739341-n
+- add_synset:
+    definition: a male performer who acts as stooge to a comedian
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10680322-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: straight man
+    synset: 10680322-n
+    target_synset: last
+- add_synset:
+    definition: a female performer who acts as stooge to a comedian
+    lemmas:
+    - straight woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10680322-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: the most helpful male assistant
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10550684-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: right-hand man
+    synset: 10550684-n
+    target_synset: last
+- move_entry:
+    lemma: man Friday
+    synset: 10550684-n
+    target_synset: last
+- add_synset:
+    definition: the most helpful female assistant
+    lemmas:
+    - right-hand woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10550684-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male racketeer assigned to collect or distribute payoff money
+    synset: 09852122-n
+- add_relation:
+    relation: hypernym
+    source: 09852122-n
+    target: 10306910-n
+- add_synset:
+    definition: a female racketeer assigned to collect or distribute payoff money
+    lemmas:
+    - bagwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10522840-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10594533-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 09939148-n
+    target: 10305010-n
+- add_synset:
+    definition: a girl who sings in a choir
+    lemmas:
+    - choirgirl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09940229-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10149362-n
+- add_synset:
+    definition: a man who delivers milk
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10337542-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: milkman
+    synset: 10337542-n
+    target_synset: last
+- add_synset:
+    definition: a woman who delivers milk
+    lemmas:
+    - milkwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10337542-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: milk delivery person
+    pos: n
+    synset: 10337542-n
+- add_synset:
+    definition: a male railroad employee in charge of signals and point in a railroad
+      yard
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10616499-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: signalman
+    synset: 10616499-n
+    target_synset: last
+- add_synset:
+    definition: a female railroad employee in charge of signals and point in a railroad
+      yard
+    lemmas:
+    - signalwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10616499-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: signal worker
+    pos: n
+    synset: 10616499-n
+- add_relation:
+    relation: hypernym
+    source: 09905221-n
+    target: 10306910-n
+- add_synset:
+    definition: a young woman acting as a servant on a ship
+    lemmas:
+    - cabin girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10601606-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male worker employed to make rounds (to deliver goods or make inspections
+      or so on)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10560292-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: roundsman
+    synset: 10560292-n
+    target_synset: last
+- add_synset:
+    definition: a female worker employed to make rounds (to deliver goods or make
+      inspections or so on)
+    lemmas:
+    - roundswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10560292-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: roundsperson
+    pos: n
+    synset: 10560292-n
+- add_relation:
+    relation: hypernym
+    source: 09805332-n
+    target: 10305010-n
+- add_synset:
+    definition: a girl serving as an acolyte
+    lemmas:
+    - altar girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10305010-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09782772-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10149362-n
+- add_synset:
+    definition: a male worker in a livery stable
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10288119-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: liveryman
+    synset: 10288119-n
+    target_synset: last
+- add_synset:
+    definition: a female worker in a livery stable
+    lemmas:
+    - liverywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10288119-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: livery worker
+    pos: n
+    synset: 10288119-n
+- add_synset:
+    definition: a male maker of malt
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306552-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: maltman
+    synset: 10306552-n
+    target_synset: last
+- add_synset:
+    definition: a female maker of malt
+    lemmas:
+    - maltwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306552-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: an itinerant peddler
+    synset: 09928136-n
+- change_definition:
+    definition: a male itinerant peddler
+    synset: 09928136-n
+- add_relation:
+    relation: hypernym
+    source: 09928136-n
+    target: 10306910-n
+- add_synset:
+    definition: a female itinerant peddler
+    lemmas:
+    - chapwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10431296-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10823295-n
+    target: 10306910-n
+- add_synset:
+    definition: a disparaging term for a male appointee
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10456781-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: placeman
+    synset: 10456781-n
+    target_synset: last
+- add_synset:
+    definition: a disparaging term for a female appointee
+    lemmas:
+    - placewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10456781-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who collects taxes for the government
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10712548-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: taxman
+    synset: 10712548-n
+    target_synset: last
+- move_entry:
+    lemma: exciseman
+    synset: 10712548-n
+    target_synset: last
+- add_synset:
+    definition: a woman who collects taxes for the government
+    lemmas:
+    - taxwoman
+    - excisewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10712548-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male orderly assigned to serve a British military officer
+    synset: 09863124-n
+- add_relation:
+    relation: hypernym
+    source: 09863124-n
+    target: 10306910-n
+- add_synset:
+    definition: a female orderly assigned to serve a British military officer
+    lemmas:
+    - batwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09841233-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10684629-n
+    target: 10306910-n
+- add_synset:
+    definition: a male inhabitant of Scandinavia
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09749546-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: Northman
+    synset: 09749546-n
+    target_synset: last
+- add_synset:
+    definition: a female inhabitant of Scandinavia
+    lemmas:
+    - Northwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09749546-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a head of a tribe or clan
+    synset: 10183618-n
+- add_synset:
+    definition: a male head of a tribe or clan
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10183618-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: headman
+    synset: 10183618-n
+    target_synset: last
+- add_synset:
+    definition: a female head of a tribe or clan
+    lemmas:
+    - headwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10183618-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male special law-enforcement agent of the Federal Bureau of Investigation
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10153370-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: G-man
+    synset: 10153370-n
+    target_synset: last
+- move_entry:
+    lemma: government man
+    synset: 10153370-n
+    target_synset: last
+- add_synset:
+    definition: a female special law-enforcement agent of the Federal Bureau of Investigation
+    lemmas:
+    - G-woman
+    - government woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10153370-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10007849-n
+    target: 10306910-n
+- add_synset:
+    definition: a woman who works in a dairy
+    lemmas:
+    - dairywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10099179-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male workman employed to blast with explosives
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09878963-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: chargeman
+    synset: 09878963-n
+    target_synset: last
+- add_synset:
+    definition: a female workman employed to blast with explosives
+    lemmas:
+    - chargewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09878963-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male dealer in poultry and poultry products
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10480626-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: poultryman
+    synset: 10480626-n
+    target_synset: last
+- add_synset:
+    definition: a female dealer in poultry and poultry products
+    lemmas:
+    - poultrywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10480626-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who patrols the borders of a country
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09886717-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: border patrolman
+    synset: 09886717-n
+    target_synset: last
+- add_synset:
+    definition: a woman who patrols the borders of a country
+    lemmas:
+    - border patrolwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09886717-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: border patroller
+    pos: n
+    synset: 09886717-n
+- add_synset:
+    definition: a male musician who plays or composes jazz music
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10240156-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: jazzman
+    synset: 10240156-n
+    target_synset: last
+- add_synset:
+    definition: a female musician who plays or composes jazz music
+    lemmas:
+    - jazzwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10240156-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10765000-n
+    target: 10306910-n
+- change_definition:
+    definition: a servant (usually the head servant of a household) who has charge
+      of wines and the table
+    synset: 09903961-n
+- add_synset:
+    definition: a manservant (usually the head servant of a household) who has charge
+      of wines and the table
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09903961-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: pantryman
+    synset: 09903961-n
+    target_synset: last
+- add_synset:
+    definition: a female servant (usually the head servant of a household) who has
+      charge of wines and the table
+    lemmas:
+    - pantrywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09903961-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a man who leads a merry existence; especially a gambler on the outcome
+      of sporting events
+    synset: 10658867-n
+- add_relation:
+    relation: hypernym
+    source: 10658867-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 10459494-n
+    target: 10306910-n
+- change_definition:
+    definition: a surveyor who marks positions with a range pole
+    synset: 10283277-n
+- add_synset:
+    definition: a male surveyor who marks positions with a range pole
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10283277-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: lineman
+    synset: 10283277-n
+    target_synset: last
+- add_synset:
+    definition: a female surveyor who marks positions with a range pole
+    lemmas:
+    - linewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10283277-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: line surveyor
+    pos: n
+    synset: 10283277-n
+- change_definition:
+    definition: "a young male peddler of sand; used now only to express great happiness\
+      \ in \u2018happy as a sandboy\u2019"
+    synset: 10569647-n
+- add_relation:
+    relation: hypernym
+    source: 10569647-n
+    target: 10305010-n
+- add_synset:
+    definition: a man who cuts and delivers ice
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10216023-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: iceman
+    synset: 10216023-n
+    target_synset: last
+- add_synset:
+    definition: a woman who cuts and delivers ice
+    lemmas:
+    - icewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10216023-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: ice seller
+    pos: n
+    synset: 10216023-n
+- add_synset:
+    definition: a man employed to collect and dispose of refuse
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10139987-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: garbage man
+    synset: 10139987-n
+    target_synset: last
+- move_entry:
+    lemma: garbageman
+    synset: 10139987-n
+    target_synset: last
+- move_entry:
+    lemma: dustman
+    synset: 10139987-n
+    target_synset: last
+- add_synset:
+    definition: a woman employed to collect and dispose of refuse
+    lemmas:
+    - garbage woman
+    - garbagewoman
+    - dustwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10139987-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male comedian who uses gags
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10137072-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: gagman
+    synset: 10137072-n
+    target_synset: last
+- add_synset:
+    definition: a female comedian who uses gags
+    lemmas:
+    - gagwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10137072-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who is in a position to give you special assistance
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09979596-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: middleman
+    synset: 09979596-n
+    target_synset: last
+- add_synset:
+    definition: a female person who is in a position to give you special assistance
+    lemmas:
+    - middlewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09979596-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male assistant who supplies drinking water
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10789977-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: water boy
+    synset: 10789977-n
+    target_synset: last
+- add_synset:
+    definition: a female assistant who supplies drinking water
+    lemmas:
+    - water girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10789977-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man employed to arrange publicity (for a firm or a public figure)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10489196-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: PR man
+    synset: 10489196-n
+    target_synset: last
+- move_entry:
+    lemma: public relations man
+    synset: 10489196-n
+    target_synset: last
+- move_entry:
+    lemma: publicity man
+    synset: 10489196-n
+    target_synset: last
+- add_synset:
+    definition: a woman employed to arrange publicity (for a firm or a public figure)
+    lemmas:
+    - PR woman
+    - public relations woman
+    - publicity woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10489196-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male executioner who beheads the condemned person
+    synset: 10184590-n
+- add_relation:
+    relation: hypernym
+    source: 10184590-n
+    target: 10306910-n
+- add_synset:
+    definition: a female executioner who beheads the condemned person
+    lemmas:
+    - headswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10089234-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male thief who breaks open safes to steal valuable contents
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10565619-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: cracksman
+    synset: 10565619-n
+    target_synset: last
+- add_synset:
+    definition: a female thief who breaks open safes to steal valuable contents
+    lemmas:
+    - crackswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10565619-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male clergyman or other person in religious orders
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09947594-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: churchman
+    synset: 09947594-n
+    target_synset: last
+- add_synset:
+    definition: a female clergyman or other person in religious orders
+    lemmas:
+    - churchwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09947594-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male serviceman in the navy
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09880801-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: navy man
+    synset: 09880801-n
+    target_synset: last
+- move_entry:
+    lemma: sailor boy
+    synset: 09880801-n
+    target_synset: last
+- add_synset:
+    definition: a female serviceman in the navy
+    lemmas:
+    - navy woman
+    - sailor girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09880801-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male member of a flight crew
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09996708-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: crewman
+    synset: 09996708-n
+    target_synset: last
+- add_synset:
+    definition: a female member of a flight crew
+    lemmas:
+    - crewwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09996708-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male hired laborer on a farm or ranch
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10196310-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: hired man
+    synset: 10196310-n
+    target_synset: last
+- add_synset:
+    definition: a female hired laborer on a farm or ranch
+    lemmas:
+    - hired woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10196310-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male member of a coastguard
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09952246-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: coastguardsman
+    synset: 09952246-n
+    target_synset: last
+- add_synset:
+    definition: a female member of a coastguard
+    lemmas:
+    - coastguardswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09952246-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: coastguard
+    pos: n
+    synset: 09952246-n
+- change_definition:
+    definition: a performer in the middle of a minstrel line who engages the others
+      in talk
+    synset: 10230706-n
+- add_synset:
+    definition: a male performer in the middle of a minstrel line who engages the
+      others in talk
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10230706-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: middleman
+    synset: 10230706-n
+    target_synset: last
+- add_synset:
+    definition: a female performer in the middle of a minstrel line who engages the
+      others in talk
+    lemmas:
+    - middlewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10230706-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male employee of a railroad
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10742407-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: trainman
+    synset: 10742407-n
+    target_synset: last
+- move_entry:
+    lemma: railroad man
+    synset: 10742407-n
+    target_synset: last
+- move_entry:
+    lemma: railway man
+    synset: 10742407-n
+    target_synset: last
+- move_entry:
+    lemma: railwayman
+    synset: 10742407-n
+    target_synset: last
+- add_synset:
+    definition: a female employee of a railroad
+    lemmas:
+    - trainwoman
+    - railroad woman
+    - railway woman
+    - railwaywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10742407-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man whose occupation is catching fish
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10113427-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: fisherman
+    synset: 10113427-n
+    target_synset: last
+- add_synset:
+    definition: a woman whose occupation is catching fish
+    lemmas:
+    - fisherwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10113427-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male dweller in the Australian bush country
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09900985-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: bushman
+    synset: 09900985-n
+    target_synset: last
+- add_synset:
+    definition: a female dweller in the Australian bush country
+    lemmas:
+    - bushwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09900985-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: bushperson
+    pos: n
+    synset: 09900985-n
+- add_synset:
+    definition: a man who puts text into appropriate form for publication
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10532713-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: rewrite man
+    synset: 10532713-n
+    target_synset: last
+- add_synset:
+    definition: a woman who puts text into appropriate form for publication
+    lemmas:
+    - rewrite woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10532713-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09914932-n
+    target: 10306910-n
+- add_synset:
+    definition: a woman who is a careerist
+    lemmas:
+    - career woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09914674-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: someone who fights on foot with small arms
+    synset: 10224540-n
+- add_synset:
+    definition: a man who fights on foot with small arms
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10224540-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: infantryman
+    synset: 10224540-n
+    target_synset: last
+- add_synset:
+    definition: a woman who fights on foot with small arms
+    lemmas:
+    - infantrywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10224540-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male member of a vigilance committee
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10773007-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: vigilance man
+    synset: 10773007-n
+    target_synset: last
+- add_synset:
+    definition: a female member of a vigilance committee
+    lemmas:
+    - vigilance woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10773007-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who lives in a cave
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09922184-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: cave man
+    synset: 09922184-n
+    target_synset: last
+- move_entry:
+    lemma: caveman
+    synset: 09922184-n
+    target_synset: last
+- add_synset:
+    definition: a woman who lives in a cave
+    lemmas:
+    - cave woman
+    - cavewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09922184-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male member of a work crew
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09996612-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: crewman
+    synset: 09996612-n
+    target_synset: last
+- add_synset:
+    definition: a female member of a work crew
+    lemmas:
+    - crewwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09996612-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: crew member
+    pos: n
+    synset: 09996612-n
+- add_relation:
+    relation: hypernym
+    source: 09862831-n
+    target: 10305010-n
+- add_relation:
+    relation: hypernym
+    source: 10308837-n
+    target: 10306910-n
+- add_synset:
+    definition: a man in charge of a client's account for an advertising agency or
+      brokerage or other service business
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09781176-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: customer's man
+    synset: 09781176-n
+    target_synset: last
+- add_synset:
+    definition: a woman in charge of a client's account for an advertising agency
+      or brokerage or other service business
+    lemmas:
+    - customer's woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09781176-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09899082-n
+    target: 09899018-n
+- change_definition:
+    definition: a male swaggering tough; usually one acting as an agent of a political
+      faction
+    synset: 09899082-n
+- add_relation:
+    relation: hypernym
+    source: 09899082-n
+    target: 10306910-n
+- add_synset:
+    definition: a female swaggering tough; usually one acting as an agent of a political
+      faction
+    lemmas:
+    - bullygirl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09898763-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: (Church of England) a male assistant to the churchwarden; collects
+      offerings of money in the church
+    synset: 10615756-n
+- add_relation:
+    relation: hypernym
+    source: 10615756-n
+    target: 10306910-n
+- add_synset:
+    definition: (Church of England) a female assistant to the churchwarden; collects
+      offerings of money in the church
+    lemmas:
+    - sideswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09835195-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who teaches a section of a large college course
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10593869-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: section man
+    synset: 10593869-n
+    target_synset: last
+- add_synset:
+    definition: a woman who teaches a section of a large college course
+    lemmas:
+    - section woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10593869-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: section instructor
+    pos: n
+    synset: 10593869-n
+- add_entry:
+    lemma: section teacher
+    pos: n
+    synset: 10593869-n
+- add_synset:
+    definition: a male member of a municipal legislative body (as a city council)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09801838-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: alderman
+    synset: 09801838-n
+    target_synset: last
+- add_synset:
+    definition: a female member of a municipal legislative body (as a city council)
+    lemmas:
+    - alderwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09801838-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: alderperson
+    pos: n
+    synset: 09801838-n
+- add_synset:
+    definition: a man who sells hardware
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10236360-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: hardwareman
+    synset: 10236360-n
+    target_synset: last
+- add_synset:
+    definition: a woman who sells hardware
+    lemmas:
+    - hardware woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10236360-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who procures customers for whores (in England they call a pimp
+      a ponce)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10453501-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: fancy man
+    synset: 10453501-n
+    target_synset: last
+- change_definition:
+    definition: a man whose advice is highly respected
+    synset: 10068420-n
+- add_relation:
+    relation: hypernym
+    source: 10068420-n
+    target: 10306910-n
+- add_synset:
+    definition: a woman whose advice is highly respected
+    lemmas:
+    - elder stateswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10220400-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10178882-n
+    target: 10306910-n
+- add_synset:
+    definition: a woman skilled in various odd jobs and other small tasks
+    lemmas:
+    - odd-job woman
+    - handywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10178882-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09917055-n
+    target: 10305010-n
+- add_synset:
+    definition: a male worker in charge of a lock (on a canal)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10288775-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: lockman
+    synset: 10288775-n
+    target_synset: last
+- add_synset:
+    definition: a man whose job it is to execute unpleasant tasks for a superior
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10181460-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: hatchet man
+    synset: 10181460-n
+    target_synset: last
+- add_synset:
+    definition: a woman whose job it is to execute unpleasant tasks for a superior
+    lemmas:
+    - hatchet woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10181460-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man skilled at fencing
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10104986-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: swordsman
+    synset: 10104986-n
+    target_synset: last
+- add_synset:
+    definition: a woman skilled at fencing
+    lemmas:
+    - swordswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10104986-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male technician in charge of amplifying sound or producing sound
+      effects (as for a TV or radio broadcast)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10646919-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: soundman
+    synset: 10646919-n
+    target_synset: last
+- add_synset:
+    definition: a female technician in charge of amplifying sound or producing sound
+      effects (as for a TV or radio broadcast)
+    lemmas:
+    - soundwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10646919-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: sound technician
+    pos: n
+    synset: 10646919-n
+- add_synset:
+    definition: a male armed adversary (especially a member of an opposing military
+      force)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10075655-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: foeman
+    synset: 10075655-n
+    target_synset: last
+- add_synset:
+    definition: a man employed to collect tolls
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10734333-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: tollman
+    synset: 10734333-n
+    target_synset: last
+- add_synset:
+    definition: a woman employed to collect tolls
+    lemmas:
+    - tollwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10734333-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male member of the militia; serves only during emergencies
+    synset: 10337375-n
+- add_relation:
+    relation: hypernym
+    source: 10337375-n
+    target: 10306910-n
+- add_synset:
+    definition: a female member of the militia; serves only during emergencies
+    lemmas:
+    - militiawoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10641415-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male worker who installs and repairs electric wiring
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10803410-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: wireman
+    synset: 10803410-n
+    target_synset: last
+- add_synset:
+    definition: a female worker who installs and repairs electric wiring
+    lemmas:
+    - wirewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10803410-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male scholar who is skilled in academic disputation
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09778642-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: schoolman
+    synset: 09778642-n
+    target_synset: last
+- add_synset:
+    definition: a female scholar who is skilled in academic disputation
+    lemmas:
+    - schoolwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09778642-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10391029-n
+    target: 10305010-n
+- add_synset:
+    definition: a male person trained to travel in a spacecraft
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09837427-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: spaceman
+    synset: 09837427-n
+    target_synset: last
+- add_synset:
+    definition: a female person trained to travel in a spacecraft
+    lemmas:
+    - spacewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09837427-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male woman's lover
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10098113-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: fancy man
+    synset: 10098113-n
+    target_synset: last
+- add_synset:
+    definition: a male native or inhabitant of Holland
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09732504-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: Dutchman
+    synset: 09732504-n
+    target_synset: last
+- add_synset:
+    definition: a female native or inhabitant of Holland
+    lemmas:
+    - Dutchwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09732504-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person holding a fief; a person who owes allegiance and service
+      to a feudal lord
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10766249-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: liegeman
+    synset: 10766249-n
+    target_synset: last
+- add_synset:
+    definition: a female person holding a fief; a person who owes allegiance and service
+      to a feudal lord
+    lemmas:
+    - liegewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10766249-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 10068293-n
+    target: 10306910-n
+- add_synset:
+    definition: a elderly stateswoman whose advice is sought be government leaders
+    lemmas:
+    - elder stateswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10669601-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male employee who performs manual or industrial labor
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10810861-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: working man
+    synset: 10810861-n
+    target_synset: last
+- move_entry:
+    lemma: workingman
+    synset: 10810861-n
+    target_synset: last
+- move_entry:
+    lemma: workman
+    synset: 10810861-n
+    target_synset: last
+- add_synset:
+    definition: a female employee who performs manual or industrial labor
+    lemmas:
+    - working woman
+    - workingwoman
+    - workwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10810861-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male powerful political figure who rules by the exercise of force
+      or violence
+    synset: 10684445-n
+- add_relation:
+    relation: hypernym
+    source: 10684445-n
+    target: 10306910-n
+- add_synset:
+    definition: a female powerful political figure who rules by the exercise of force
+      or violence
+    lemmas:
+    - strongwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10031556-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male workman who is employed to repair roads
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10553431-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: roadman
+    synset: 10553431-n
+    target_synset: last
+- add_synset:
+    definition: a female workman who is employed to repair roads
+    lemmas:
+    - roadwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10553431-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: formerly an itinerant male peddler of muffins
+    synset: 10356617-n
+- add_relation:
+    relation: hypernym
+    source: 10356617-n
+    target: 10306910-n
+- add_synset:
+    definition: male combatant who tries to throw opponent to the ground
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10812808-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: matman
+    synset: 10812808-n
+    target_synset: last
+- add_synset:
+    definition: the ordinary woman
+    lemmas:
+    - everywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09633435-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: any male member of a ship's crew
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10566190-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: crewman
+    synset: 10566190-n
+    target_synset: last
+- add_synset:
+    definition: any female member of a ship's crew
+    lemmas:
+    - crewwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10566190-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male performer who gives exhibitions of riding and roping and bulldogging
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09992602-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: cowboy
+    synset: 09992602-n
+    target_synset: last
+- add_synset:
+    definition: a female performer who gives exhibitions of riding and roping and
+      bulldogging
+    lemmas:
+    - cowgirl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09992602-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who breeds and cares for horses
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10205301-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: horseman
+    synset: 10205301-n
+    target_synset: last
+- add_synset:
+    definition: a female person who breeds and cares for horses
+    lemmas:
+    - horsewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10205301-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: male official (in tennis, soccer, football, etc.) who assists the
+      referee in some way (especially by watching for out of bounds or offside)
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10283628-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: linesman
+    synset: 10283628-n
+    target_synset: last
+- add_synset:
+    definition: female official (in tennis, soccer, football, etc.) who assists the
+      referee in some way (especially by watching for out of bounds or offside)
+    lemmas:
+    - lineswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10283628-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: lines umpire
+    pos: n
+    synset: 10283628-n
+- add_entry:
+    lemma: assistant referee
+    pos: n
+    synset: 10283628-n
+- add_relation:
+    relation: hypernym
+    source: 10807040-n
+    target: 10306910-n
+- add_synset:
+    definition: a male worker who produces or sells petroleum
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10394240-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: oilman
+    synset: 10394240-n
+    target_synset: last
+- add_synset:
+    definition: a female worker who produces or sells petroleum
+    lemmas:
+    - oilwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10394240-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: oil worker
+    pos: n
+    synset: 10394240-n
+- add_synset:
+    definition: a male soldier whose weapon is a rifle
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10550146-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: rifleman
+    synset: 10550146-n
+    target_synset: last
+- add_synset:
+    definition: a female soldier whose weapon is a rifle
+    lemmas:
+    - riflewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10550146-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: rifler
+    pos: n
+    synset: 10550146-n
+- add_synset:
+    definition: a male soldier mounted on horseback
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09921806-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: cavalryman
+    synset: 09921806-n
+    target_synset: last
+- add_synset:
+    definition: a female soldier mounted on horseback
+    lemmas:
+    - cavalrywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09921806-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: cavalry soldier
+    pos: n
+    synset: 09921806-n
+- change_definition:
+    definition: a male owner or manager of a company that is engaged in lumbering
+    synset: 10730902-n
+- add_relation:
+    relation: hypernym
+    source: 10730902-n
+    target: 10306910-n
+- add_synset:
+    definition: a male attendant who takes care of baggage
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09851898-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: baggageman
+    synset: 09851898-n
+    target_synset: last
+- add_synset:
+    definition: a female attendant who takes care of baggage
+    lemmas:
+    - baggagewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09851898-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: baggage attendant
+    pos: n
+    synset: 09851898-n
+- add_synset:
+    definition: a male person who is devoted to eating and drinking to excess
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10152508-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: trencherman
+    synset: 10152508-n
+    target_synset: last
+- add_synset:
+    definition: a female person who is devoted to eating and drinking to excess
+    lemmas:
+    - trencherwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10152508-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: (baseball) a male person who plays third base
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10728625-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: third baseman
+    synset: 10728625-n
+    target_synset: last
+- add_synset:
+    definition: (baseball) a female person who plays third base
+    lemmas:
+    - third basewoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10728625-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a man who works in a coal mine
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09951966-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: pitman
+    synset: 09951966-n
+    target_synset: last
+- add_synset:
+    definition: a woman who works in a coal mine
+    lemmas:
+    - pitwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09951966-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: (ethnic slur) offensive term for a man of Chinese descent
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09717733-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: Chinaman
+    synset: 09717733-n
+    target_synset: last
+- add_synset:
+    definition: (ethnic slur) offensive term for a woman of Chinese descent
+    lemmas:
+    - Chinawoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09717733-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male man who operates a ferry
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10105218-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: ferryman
+    synset: 10105218-n
+    target_synset: last
+- add_synset:
+    definition: a female man who operates a ferry
+    lemmas:
+    - ferrywoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10105218-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: ferry driver
+    pos: n
+    synset: 10105218-n
+- add_synset:
+    definition: a male detective who wears civilian clothes on duty
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10457357-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: plainclothesman
+    synset: 10457357-n
+    target_synset: last
+- add_synset:
+    definition: a female detective who wears civilian clothes on duty
+    lemmas:
+    - plainclotheswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10457357-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: plain clothes detective
+    pos: n
+    synset: 10457357-n
+- add_relation:
+    relation: hypernym
+    source: 89782767-n
+    target: 10306910-n
+- add_synset:
+    definition: a male person who installs or repairs electrical or telephone lines
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10069171-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: lineman
+    synset: 10069171-n
+    target_synset: last
+- move_entry:
+    lemma: linesman
+    synset: 10069171-n
+    target_synset: last
+- add_synset:
+    definition: a female person who installs or repairs electrical or telephone lines
+    lemmas:
+    - linewoman
+    - lineswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10069171-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male workman expected to serve in any capacity when called on
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10762538-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: utility man
+    synset: 10762538-n
+    target_synset: last
+- add_synset:
+    definition: a female workman expected to serve in any capacity when called on
+    lemmas:
+    - utility woman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10762538-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: utility worker
+    pos: n
+    synset: 10762538-n
+- add_synset:
+    definition: a man who hunts game
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10212645-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: huntsman
+    synset: 10212645-n
+    target_synset: last
+- add_synset:
+    definition: a woman who hunts game
+    lemmas:
+    - huntswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10212645-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male resident of a town or city
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10738916-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: townsman
+    synset: 10738916-n
+    target_synset: last
+- add_synset:
+    definition: a female resident of a town or city
+    lemmas:
+    - townswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10738916-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male hawker of fruit and vegetables from a barrow
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09987658-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: barrow-man
+    synset: 09987658-n
+    target_synset: last
+- move_entry:
+    lemma: barrow-boy
+    synset: 09987658-n
+    target_synset: last
+- add_synset:
+    definition: a female hawker of fruit and vegetables from a barrow
+    lemmas:
+    - barrow-woman
+    - barrow-girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09987658-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- change_definition:
+    definition: a male temporary rank held by young naval officers in training
+    synset: 10334361-n
+- add_relation:
+    relation: hypernym
+    source: 10334361-n
+    target: 10306910-n
+- add_synset:
+    definition: a female temporary rank held by young naval officers in training
+    lemmas:
+    - midshipwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09905992-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male skilled worker who draws plans of buildings or machines
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10048994-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: draftsman
+    synset: 10048994-n
+    target_synset: last
+- move_entry:
+    lemma: draughtsman
+    synset: 10048994-n
+    target_synset: last
+- add_synset:
+    definition: a female skilled worker who draws plans of buildings or machines
+    lemmas:
+    - draftswoman
+    - draughtswoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10048994-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person who is expert in the use of a bow and arrow
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09824747-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: bowman
+    synset: 09824747-n
+    target_synset: last
+- add_synset:
+    definition: a female person who is expert in the use of a bow and arrow
+    lemmas:
+    - bowwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09824747-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male photographer who operates a movie camera
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09908991-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: cameraman
+    synset: 09908991-n
+    target_synset: last
+- add_synset:
+    definition: a female photographer who operates a movie camera
+    lemmas:
+    - camerawoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09908991-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male person skilled at making effective presentations
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10613451-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: showman
+    synset: 10613451-n
+    target_synset: last
+- add_synset:
+    definition: a female person skilled at making effective presentations
+    lemmas:
+    - showwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10613451-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_entry:
+    lemma: showperson
+    pos: n
+    synset: 10613451-n
+- add_synset:
+    definition: male member of the stage crew in charge of properties
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10502980-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: property man
+    synset: 10502980-n
+    target_synset: last
+- move_entry:
+    lemma: propman
+    synset: 10502980-n
+    target_synset: last
+- add_synset:
+    definition: female member of the stage crew in charge of properties
+    lemmas:
+    - property woman
+    - propwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10502980-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09951794-n
+    target: 10306910-n
+- add_synset:
+    definition: a woman who drives a coach (or carriage)
+    lemmas:
+    - coachwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10055155-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male owner or manager of hotels
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10207609-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: hotelman
+    synset: 10207609-n
+    target_synset: last
+- add_synset:
+    definition: a female owner or manager of hotels
+    lemmas:
+    - hotelwoman
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10207609-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_synset:
+    definition: a male upstart who makes conceited, sardonic, insolent comments
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10803789-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: wise guy
+    synset: 10803789-n
+    target_synset: last
+- add_synset:
+    definition: a close male friend who accompanies his buddies in their activities
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09897417-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: brother
+    synset: 09897417-n
+    target_synset: last
+- change_definition:
+    definition: a male Viking pirate chief
+    synset: 10586524-n
+- add_relation:
+    relation: hypernym
+    source: 10586524-n
+    target: 10306910-n
+- add_synset:
+    definition: a female Viking pirate chief
+    lemmas:
+    - sea queen
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10455134-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 83226323-n
+    target: 10306910-n
+- add_synset:
+    definition: a male person who is gullible and easy to take advantage of
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09940867-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: fall guy
+    synset: 09940867-n
+    target_synset: last
+- add_synset:
+    definition: a female person who is gullible and easy to take advantage of
+    lemmas:
+    - fall girl
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 09940867-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10807146-n
+- add_relation:
+    relation: hypernym
+    source: 09896590-n
+    target: 10306910-n
+- change_definition:
+    definition: a male counselor who admonishes frankly and sternly
+    synset: 10060037-n
+- add_relation:
+    relation: hypernym
+    source: 10060037-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 10426650-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 09880059-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 09659757-n
+    target: 10306910-n
+- add_relation:
+    relation: hypernym
+    source: 89388690-n
+    target: 10306910-n
+- add_synset:
+    definition: a man who bullies weaker people
+    lemmas: []
+    lexfile: noun.person
+    pos: n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10737570-n
+- add_relation:
+    relation: hypernym
+    source: last
+    target: 10306910-n
+- move_entry:
+    lemma: tough guy
+    synset: 10737570-n
+    target_synset: last
+- add_relation:
+    relation: hypernym
+    source: 10724535-n
+    target: 10306910-n
+- fix_transitivity

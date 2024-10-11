@@ -1,0 +1,87 @@
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 82499289-n
+    synset: 10569809-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 85517756-n
+    synset: 10810024-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 88482468-n
+    synset: 10479599-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 88421670-n
+    synset: 10658757-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 83177595-n
+    synset: 09864306-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 84129009-n
+    synset: 10200554-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 89093598-n
+    synset: 10802308-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 88528522-n
+    synset: 10290474-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 81748515-n
+    synset: 10402793-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 83783949-n
+    synset: 10134928-n
+- add_example:
+    synset: 83783949-n
+    example: a fugleman for the radical right
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 83374283-n
+    synset: 09852122-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 81827609-n
+    synset: 09928136-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 82596555-n
+    synset: 09863124-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 89434745-n
+    synset: 10184590-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 86614725-n
+    synset: 09899082-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 87271290-n
+    synset: 10615756-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: 84786280-n
+    synset: 10068420-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: last
+    synset: 10337375-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: last
+    synset: 10684445-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: last
+    synset: 10334361-n
+- delete_synset:
+    reason: Use gendered words instead (#1102)
+    superseded_by: last
+    synset: 10586524-n
